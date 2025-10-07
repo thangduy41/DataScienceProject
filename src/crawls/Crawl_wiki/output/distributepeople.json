@@ -1,0 +1,4268 @@
+{
+    "huế": {
+        "a lưới": {
+            "number_people": "56.370",
+            "area": "1.225,2",
+            "distribute": "46",
+            "communes": "18"
+        },
+        "hương thủy": {
+            "number_people": "95.299",
+            "area": "427,0",
+            "distribute": "223",
+            "communes": "10"
+        },
+        "hương trà": {
+            "number_people": "72.677",
+            "area": "392,3",
+            "distribute": "185",
+            "communes": "9"
+        },
+        "phong điền": {
+            "number_people": "87.781",
+            "area": "948,2",
+            "distribute": "93",
+            "communes": "12"
+        },
+        "phú lộc": {
+            "number_people": "154.146",
+            "area": "1.368,2",
+            "distribute": "218",
+            "communes": "27"
+        },
+        "phú vang": {
+            "number_people": "137.962",
+            "area": "235,4",
+            "distribute": "646",
+            "communes": "14"
+        },
+        "phú xuân": {
+            "number_people": "203.142",
+            "area": "127,0",
+            "distribute": "1.599",
+            "communes": "13"
+        },
+        "quảng điền": {
+            "number_people": "77.178",
+            "area": "163,1",
+            "distribute": "473",
+            "communes": "11"
+        },
+        "thuận hóa": {
+            "number_people": "297.507",
+            "area": "139,4",
+            "distribute": "2.134",
+            "communes": "19"
+        }
+    },
+    "kiên giang": {
+        "an biên": {
+            "number_people": "115.218",
+            "area": "400,3",
+            "distribute": "288",
+            "communes": "9"
+        },
+        "an minh": {
+            "number_people": "115.720",
+            "area": "590,5",
+            "distribute": "196",
+            "communes": "11"
+        },
+        "châu thành": {
+            "number_people": "159.607",
+            "area": "285,4",
+            "distribute": "559",
+            "communes": "10"
+        },
+        "giang thành": {
+            "number_people": "29.215",
+            "area": "412,8",
+            "distribute": "71",
+            "communes": "5"
+        },
+        "giồng riềng": {
+            "number_people": "224.655",
+            "area": "639,4",
+            "distribute": "351",
+            "communes": "19"
+        },
+        "gò quao": {
+            "number_people": "132.508",
+            "area": "439,5",
+            "distribute": "301",
+            "communes": "11"
+        },
+        "hà tiên": {
+            "number_people": "81.576",
+            "area": "100,5",
+            "distribute": "812",
+            "communes": "7"
+        },
+        "hòn đất": {
+            "number_people": "156.273",
+            "area": "1.039,6",
+            "distribute": "150",
+            "communes": "14"
+        },
+        "kiên hải": {
+            "number_people": "17.588",
+            "area": "24,6",
+            "distribute": "715",
+            "communes": "4"
+        },
+        "kiên lương": {
+            "number_people": "79.484",
+            "area": "473,3",
+            "distribute": "168",
+            "communes": "8"
+        },
+        "phú quốc": {
+            "number_people": "179.480",
+            "area": "589,3",
+            "distribute": "305",
+            "communes": "9"
+        },
+        "rạch giá": {
+            "number_people": "227.527",
+            "area": "103,6",
+            "distribute": "2.196",
+            "communes": "12"
+        },
+        "tân hiệp": {
+            "number_people": "125.459",
+            "area": "422,9",
+            "distribute": "297",
+            "communes": "11"
+        },
+        "u minh thượng": {
+            "number_people": "63.415",
+            "area": "432,7",
+            "distribute": "147",
+            "communes": "6"
+        },
+        "vĩnh thuận": {
+            "number_people": "81.875",
+            "area": "394,4",
+            "distribute": "208",
+            "communes": "8"
+        }
+    },
+    "hải phòng": {
+        "an dương": {
+            "number_people": "171.227",
+            "area": "78,9",
+            "distribute": "2.169",
+            "communes": "10"
+        },
+        "an lão": {
+            "number_people": "146.712",
+            "area": "117,7",
+            "distribute": "1.246",
+            "communes": "17"
+        },
+        "bạch long vĩ": {
+            "number_people": "624",
+            "area": "3,1",
+            "distribute": "201",
+            "communes": "0"
+        },
+        "cát hải": {
+            "number_people": "32.090",
+            "area": "325,6",
+            "distribute": "99",
+            "communes": "12"
+        },
+        "đồ sơn": {
+            "number_people": "49.029",
+            "area": "45,9",
+            "distribute": "1.068",
+            "communes": "6"
+        },
+        "dương kinh": {
+            "number_people": "60.319",
+            "area": "46,8",
+            "distribute": "1.289",
+            "communes": "6"
+        },
+        "hải an": {
+            "number_people": "144.256",
+            "area": "97,6",
+            "distribute": "1.477",
+            "communes": "8"
+        },
+        "hồng bàng": {
+            "number_people": "177.820",
+            "area": "39,7",
+            "distribute": "4.471",
+            "communes": "10"
+        },
+        "kiến an": {
+            "number_people": "118.047",
+            "area": "29,6",
+            "distribute": "3.988",
+            "communes": "7"
+        },
+        "kiến thụy": {
+            "number_people": "140.417",
+            "area": "108,9",
+            "distribute": "1.289",
+            "communes": "16"
+        },
+        "lê chân": {
+            "number_people": "219.762",
+            "area": "11,9",
+            "distribute": "18.467",
+            "communes": "7"
+        },
+        "ngô quyền": {
+            "number_people": "165.309",
+            "area": "11,3",
+            "distribute": "14.629",
+            "communes": "8"
+        },
+        "thủy nguyên": {
+            "number_people": "397.570",
+            "area": "269,1",
+            "distribute": "1.477",
+            "communes": "21"
+        },
+        "tiên lãng": {
+            "number_people": "154.789",
+            "area": "193,4",
+            "distribute": "800",
+            "communes": "19"
+        },
+        "vĩnh bảo": {
+            "number_people": "182.835",
+            "area": "183,3",
+            "distribute": "997",
+            "communes": "20"
+        }
+    },
+    "gia lai": {
+        "an khê": {
+            "number_people": "65.918",
+            "area": "200,1",
+            "distribute": "329",
+            "communes": "11"
+        },
+        "ayun pa": {
+            "number_people": "39.936",
+            "area": "287,2",
+            "distribute": "139",
+            "communes": "8"
+        },
+        "chư păh": {
+            "number_people": "77.299",
+            "area": "974,6",
+            "distribute": "79",
+            "communes": "14"
+        },
+        "chư prông": {
+            "number_people": "123.555",
+            "area": "1.693,9",
+            "distribute": "73",
+            "communes": "20"
+        },
+        "chư pưh": {
+            "number_people": "77.511",
+            "area": "718,9",
+            "distribute": "108",
+            "communes": "9"
+        },
+        "chư sê": {
+            "number_people": "121.965",
+            "area": "641,0",
+            "distribute": "190",
+            "communes": "15"
+        },
+        "đak đoa": {
+            "number_people": "123.282",
+            "area": "985,3",
+            "distribute": "125",
+            "communes": "17"
+        },
+        "đak pơ": {
+            "number_people": "40.442",
+            "area": "502,5",
+            "distribute": "80",
+            "communes": "8"
+        },
+        "đức cơ": {
+            "number_people": "75.718",
+            "area": "721,9",
+            "distribute": "105",
+            "communes": "10"
+        },
+        "ia grai": {
+            "number_people": "105.664",
+            "area": "1.119,6",
+            "distribute": "94",
+            "communes": "13"
+        },
+        "ia pa": {
+            "number_people": "56.596",
+            "area": "868,6",
+            "distribute": "65",
+            "communes": "9"
+        },
+        "kbang": {
+            "number_people": "65.437",
+            "area": "1.840,9",
+            "distribute": "36",
+            "communes": "13"
+        },
+        "kông chro": {
+            "number_people": "52.406",
+            "area": "1.439,7",
+            "distribute": "36",
+            "communes": "14"
+        },
+        "krông pa": {
+            "number_people": "86.416",
+            "area": "1.623,7",
+            "distribute": "53",
+            "communes": "14"
+        },
+        "mang yang": {
+            "number_people": "68.273",
+            "area": "1.127,2",
+            "distribute": "61",
+            "communes": "12"
+        },
+        "phú thiện": {
+            "number_people": "78.627",
+            "area": "505,2",
+            "distribute": "156",
+            "communes": "10"
+        },
+        "pleiku": {
+            "number_people": "254.802",
+            "area": "260,8",
+            "distribute": "977",
+            "communes": "21"
+        }
+    },
+    "bình định": {
+        "an lão": {
+            "number_people": "27.837",
+            "area": "696,9",
+            "distribute": "40",
+            "communes": "10"
+        },
+        "an nhơn": {
+            "number_people": "175.709",
+            "area": "244,5",
+            "distribute": "719",
+            "communes": "15"
+        },
+        "hoài ân": {
+            "number_people": "85.700",
+            "area": "753,2",
+            "distribute": "114",
+            "communes": "15"
+        },
+        "hoài nhơn": {
+            "number_people": "212.063",
+            "area": "420,8",
+            "distribute": "504",
+            "communes": "17"
+        },
+        "phù cát": {
+            "number_people": "183.440",
+            "area": "680,7",
+            "distribute": "269",
+            "communes": "18"
+        },
+        "phù mỹ": {
+            "number_people": "161.563",
+            "area": "555,9",
+            "distribute": "291",
+            "communes": "19"
+        },
+        "quy nhơn": {
+            "number_people": "290.053",
+            "area": "286,1",
+            "distribute": "1.014",
+            "communes": "17"
+        },
+        "tây sơn": {
+            "number_people": "115.968",
+            "area": "692,2",
+            "distribute": "168",
+            "communes": "15"
+        },
+        "tuy phước": {
+            "number_people": "180.191",
+            "area": "219,9",
+            "distribute": "819",
+            "communes": "13"
+        },
+        "vân canh": {
+            "number_people": "27.875",
+            "area": "804,2",
+            "distribute": "35",
+            "communes": "7"
+        },
+        "vĩnh thạnh": {
+            "number_people": "30.587",
+            "area": "716,9",
+            "distribute": "43",
+            "communes": "9"
+        }
+    },
+    "an giang": {
+        "an phú": {
+            "number_people": "148.615",
+            "area": "226,2",
+            "distribute": "657",
+            "communes": "14"
+        },
+        "châu đốc": {
+            "number_people": "101.765",
+            "area": "105,2",
+            "distribute": "967",
+            "communes": "7"
+        },
+        "châu phú": {
+            "number_people": "206.676",
+            "area": "450,7",
+            "distribute": "459",
+            "communes": "13"
+        },
+        "châu thành": {
+            "number_people": "151.368",
+            "area": "354,8",
+            "distribute": "427",
+            "communes": "13"
+        },
+        "chợ mới": {
+            "number_people": "307.981",
+            "area": "369,1",
+            "distribute": "834",
+            "communes": "18"
+        },
+        "long xuyên": {
+            "number_people": "272.365",
+            "area": "115,4",
+            "distribute": "2.360",
+            "communes": "12"
+        },
+        "phú tân": {
+            "number_people": "188.951",
+            "area": "313,1",
+            "distribute": "603",
+            "communes": "18"
+        },
+        "tân châu": {
+            "number_people": "141.211",
+            "area": "176,4",
+            "distribute": "801",
+            "communes": "14"
+        },
+        "thoại sơn": {
+            "number_people": "163.427",
+            "area": "470,8",
+            "distribute": "347",
+            "communes": "17"
+        },
+        "tịnh biên": {
+            "number_people": "143.098",
+            "area": "354,6",
+            "distribute": "306",
+            "communes": "14"
+        },
+        "tri tôn": {
+            "number_people": "117.431",
+            "area": "600,2",
+            "distribute": "196",
+            "communes": "15"
+        }
+    },
+    "hưng yên": {
+        "ân thi": {
+            "number_people": "134.403",
+            "area": "130,0",
+            "distribute": "1.034",
+            "communes": "18"
+        },
+        "hưng yên": {
+            "number_people": "116.356",
+            "area": "73,9",
+            "distribute": "1.575",
+            "communes": "15"
+        },
+        "khoái châu": {
+            "number_people": "188.255",
+            "area": "131,0",
+            "distribute": "1.437",
+            "communes": "20"
+        },
+        "kim động": {
+            "number_people": "117.734",
+            "area": "103,3",
+            "distribute": "1.140",
+            "communes": "15"
+        },
+        "mỹ hào": {
+            "number_people": "158.673",
+            "area": "79,4",
+            "distribute": "1.998",
+            "communes": "13"
+        },
+        "phù cừ": {
+            "number_people": "79.954",
+            "area": "94,6",
+            "distribute": "845",
+            "communes": "13"
+        },
+        "tiên lữ": {
+            "number_people": "93.118",
+            "area": "78,6",
+            "distribute": "1.185",
+            "communes": "11"
+        },
+        "văn giang": {
+            "number_people": "120.799",
+            "area": "71,8",
+            "distribute": "1.682",
+            "communes": "11"
+        },
+        "văn lâm": {
+            "number_people": "133.027",
+            "area": "75,2",
+            "distribute": "1.769",
+            "communes": "11"
+        },
+        "yên mỹ": {
+            "number_people": "159.146",
+            "area": "92,4",
+            "distribute": "1.723",
+            "communes": "12"
+        }
+    },
+    "nghệ an": {
+        "anh sơn": {
+            "number_people": "116.922",
+            "area": "603,3",
+            "distribute": "194",
+            "communes": "19"
+        },
+        "con cuông": {
+            "number_people": "75.168",
+            "area": "1.738,3",
+            "distribute": "43",
+            "communes": "12"
+        },
+        "diễn châu": {
+            "number_people": "312.506",
+            "area": "305,0",
+            "distribute": "1.025",
+            "communes": "32"
+        },
+        "đô lương": {
+            "number_people": "213.543",
+            "area": "350,1",
+            "distribute": "610",
+            "communes": "32"
+        },
+        "hoàng mai": {
+            "number_people": "113.360",
+            "area": "169,8",
+            "distribute": "668",
+            "communes": "10"
+        },
+        "hưng nguyên": {
+            "number_people": "124.245",
+            "area": "159,2",
+            "distribute": "780",
+            "communes": "15"
+        },
+        "kỳ sơn": {
+            "number_people": "80.288",
+            "area": "2.094,3",
+            "distribute": "38",
+            "communes": "21"
+        },
+        "nam đàn": {
+            "number_people": "164.634",
+            "area": "292,5",
+            "distribute": "563",
+            "communes": "17"
+        },
+        "nghi lộc": {
+            "number_people": "218.005",
+            "area": "345,9",
+            "distribute": "630",
+            "communes": "23"
+        },
+        "nghĩa đàn": {
+            "number_people": "140.515",
+            "area": "617,8",
+            "distribute": "227",
+            "communes": "20"
+        },
+        "quế phong": {
+            "number_people": "71.940",
+            "area": "1.890,9",
+            "distribute": "38",
+            "communes": "13"
+        },
+        "quỳ châu": {
+            "number_people": "57.813",
+            "area": "1.057,7",
+            "distribute": "55",
+            "communes": "12"
+        },
+        "quỳ hợp": {
+            "number_people": "134.154",
+            "area": "942,7",
+            "distribute": "142",
+            "communes": "21"
+        },
+        "quỳnh lưu": {
+            "number_people": "276.259",
+            "area": "436,2",
+            "distribute": "633",
+            "communes": "25"
+        },
+        "tân kỳ": {
+            "number_people": "147.257",
+            "area": "729,2",
+            "distribute": "202",
+            "communes": "20"
+        },
+        "thái hòa": {
+            "number_people": "66.127",
+            "area": "134,8",
+            "distribute": "491",
+            "communes": "9"
+        },
+        "thanh chương": {
+            "number_people": "240.808",
+            "area": "1.130,4",
+            "distribute": "213",
+            "communes": "29"
+        },
+        "tương dương": {
+            "number_people": "77.830",
+            "area": "2.811,3",
+            "distribute": "28",
+            "communes": "17"
+        },
+        "vinh": {
+            "number_people": "394.782",
+            "area": "132,8",
+            "distribute": "5.229",
+            "communes": "33"
+        },
+        "yên thành": {
+            "number_people": "301.635",
+            "area": "547,9",
+            "distribute": "551",
+            "communes": "32"
+        }
+    },
+    "bắc kạn": {
+        "ba bể": {
+            "number_people": "48.325",
+            "area": "684,1",
+            "distribute": "71",
+            "communes": "15"
+        },
+        "bắc kạn": {
+            "number_people": "45.036",
+            "area": "136,9",
+            "distribute": "329",
+            "communes": "8"
+        },
+        "bạch thông": {
+            "number_people": "31.061",
+            "area": "546,5",
+            "distribute": "57",
+            "communes": "14"
+        },
+        "chợ đồn": {
+            "number_people": "49.554",
+            "area": "911,2",
+            "distribute": "54",
+            "communes": "20"
+        },
+        "chợ mới": {
+            "number_people": "38.958",
+            "area": "606,5",
+            "distribute": "64",
+            "communes": "14"
+        },
+        "na rì": {
+            "number_people": "38.263",
+            "area": "853,0",
+            "distribute": "45",
+            "communes": "17"
+        },
+        "ngân sơn": {
+            "number_people": "29.269",
+            "area": "645,9",
+            "distribute": "45",
+            "communes": "10"
+        },
+        "pác nặm": {
+            "number_people": "33.439",
+            "area": "475,4",
+            "distribute": "70",
+            "communes": "10"
+        }
+    },
+    "quảng ninh": {
+        "ba chẽ": {
+            "number_people": "22.103",
+            "area": "606,5",
+            "distribute": "36",
+            "communes": "7"
+        },
+        "bình liêu": {
+            "number_people": "31.637",
+            "area": "470,1",
+            "distribute": "67",
+            "communes": "7"
+        },
+        "cẩm phả": {
+            "number_people": "190.232",
+            "area": "386,5",
+            "distribute": "492",
+            "communes": "15"
+        },
+        "cô tô": {
+            "number_people": "6.285",
+            "area": "50,1",
+            "distribute": "125",
+            "communes": "3"
+        },
+        "đầm hà": {
+            "number_people": "41.217",
+            "area": "326,9",
+            "distribute": "126",
+            "communes": "9"
+        },
+        "đông triều": {
+            "number_people": "171.673",
+            "area": "396,6",
+            "distribute": "433",
+            "communes": "19"
+        },
+        "hạ long": {
+            "number_people": "300.267",
+            "area": "1.119,1",
+            "distribute": "268",
+            "communes": "32"
+        },
+        "hải hà": {
+            "number_people": "61.566",
+            "area": "511,6",
+            "distribute": "120",
+            "communes": "11"
+        },
+        "móng cái": {
+            "number_people": "108.553",
+            "area": "519,6",
+            "distribute": "209",
+            "communes": "16"
+        },
+        "quảng yên": {
+            "number_people": "145.920",
+            "area": "301,8",
+            "distribute": "483",
+            "communes": "19"
+        },
+        "tiên yên": {
+            "number_people": "50.830",
+            "area": "652,1",
+            "distribute": "78",
+            "communes": "11"
+        },
+        "uông bí": {
+            "number_people": "120.982",
+            "area": "255,5",
+            "distribute": "474",
+            "communes": "10"
+        },
+        "vân đồn": {
+            "number_people": "46.616",
+            "area": "581,8",
+            "distribute": "80",
+            "communes": "12"
+        }
+    },
+    "hà nội": {
+        "ba đình": {
+            "number_people": "221.893",
+            "area": "9,2",
+            "distribute": "24.119",
+            "communes": "13"
+        },
+        "ba vì": {
+            "number_people": "290.580",
+            "area": "423,0",
+            "distribute": "687",
+            "communes": "29"
+        },
+        "bắc từ liêm": {
+            "number_people": "340.605",
+            "area": "45,2",
+            "distribute": "7.529",
+            "communes": "13"
+        },
+        "cầu giấy": {
+            "number_people": "292.536",
+            "area": "12,4",
+            "distribute": "23.516",
+            "communes": "8"
+        },
+        "chương mỹ": {
+            "number_people": "337.326",
+            "area": "237,4",
+            "distribute": "1.421",
+            "communes": "30"
+        },
+        "đan phượng": {
+            "number_people": "174.501",
+            "area": "78,0",
+            "distribute": "2.237",
+            "communes": "16"
+        },
+        "đông anh": {
+            "number_people": "405.749",
+            "area": "185,6",
+            "distribute": "2.186",
+            "communes": "24"
+        },
+        "đống đa": {
+            "number_people": "371.606",
+            "area": "10,0",
+            "distribute": "37.161",
+            "communes": "17"
+        },
+        "gia lâm": {
+            "number_people": "286.102",
+            "area": "116,7",
+            "distribute": "2.452",
+            "communes": "17"
+        },
+        "hà đông": {
+            "number_people": "397.854",
+            "area": "49,6",
+            "distribute": "8.021",
+            "communes": "15"
+        },
+        "hai bà trưng": {
+            "number_people": "303.586",
+            "area": "10,3",
+            "distribute": "29.474",
+            "communes": "15"
+        },
+        "hoài đức": {
+            "number_people": "262.978",
+            "area": "85,0",
+            "distribute": "3.094",
+            "communes": "20"
+        },
+        "hoàn kiếm": {
+            "number_people": "135.618",
+            "area": "5,3",
+            "distribute": "25.588",
+            "communes": "18"
+        },
+        "hoàng mai": {
+            "number_people": "506.347",
+            "area": "40,3",
+            "distribute": "12.564",
+            "communes": "14"
+        },
+        "long biên": {
+            "number_people": "322.549",
+            "area": "59,8",
+            "distribute": "5.394",
+            "communes": "13"
+        },
+        "mê linh": {
+            "number_people": "240.555",
+            "area": "142,5",
+            "distribute": "1.688",
+            "communes": "17"
+        },
+        "mỹ đức": {
+            "number_people": "199.901",
+            "area": "226,3",
+            "distribute": "883",
+            "communes": "20"
+        },
+        "nam từ liêm": {
+            "number_people": "269.076",
+            "area": "32,2",
+            "distribute": "8.364",
+            "communes": "10"
+        },
+        "phú xuyên": {
+            "number_people": "213.984",
+            "area": "171,4",
+            "distribute": "1.248",
+            "communes": "23"
+        },
+        "phúc thọ": {
+            "number_people": "184.024",
+            "area": "118,6",
+            "distribute": "1.552",
+            "communes": "18"
+        },
+        "quốc oai": {
+            "number_people": "194.412",
+            "area": "151,1",
+            "distribute": "1.287",
+            "communes": "17"
+        },
+        "sóc sơn": {
+            "number_people": "343.432",
+            "area": "304,8",
+            "distribute": "1.127",
+            "communes": "26"
+        },
+        "sơn tây": {
+            "number_people": "145.856",
+            "area": "117,4",
+            "distribute": "1.242",
+            "communes": "13"
+        },
+        "tây hồ": {
+            "number_people": "160.495",
+            "area": "24,4",
+            "distribute": "6.578",
+            "communes": "8"
+        },
+        "thạch thất": {
+            "number_people": "216.554",
+            "area": "187,4",
+            "distribute": "1.156",
+            "communes": "20"
+        },
+        "thanh oai": {
+            "number_people": "211.029",
+            "area": "123,9",
+            "distribute": "1.703",
+            "communes": "20"
+        },
+        "thanh trì": {
+            "number_people": "275.745",
+            "area": "63,5",
+            "distribute": "4.342",
+            "communes": "16"
+        },
+        "thanh xuân": {
+            "number_people": "293.524",
+            "area": "9,1",
+            "distribute": "32.255",
+            "communes": "9"
+        },
+        "thường tín": {
+            "number_people": "254.702",
+            "area": "130,4",
+            "distribute": "1.953",
+            "communes": "27"
+        },
+        "ứng hòa": {
+            "number_people": "210.869",
+            "area": "188,2",
+            "distribute": "1.120",
+            "communes": "20"
+        }
+    },
+    "quảng bình": {
+        "ba đồn": {
+            "number_people": "106.413",
+            "area": "162,3",
+            "distribute": "656",
+            "communes": "16"
+        },
+        "bố trạch": {
+            "number_people": "188.375",
+            "area": "2.115,5",
+            "distribute": "89",
+            "communes": "26"
+        },
+        "đồng hới": {
+            "number_people": "133.672",
+            "area": "155,9",
+            "distribute": "857",
+            "communes": "15"
+        },
+        "lệ thủy": {
+            "number_people": "137.831",
+            "area": "1.401,8",
+            "distribute": "98",
+            "communes": "26"
+        },
+        "minh hóa": {
+            "number_people": "50.670",
+            "area": "1.393,8",
+            "distribute": "36",
+            "communes": "13"
+        },
+        "quảng ninh": {
+            "number_people": "90.335",
+            "area": "1.194,2",
+            "distribute": "76",
+            "communes": "14"
+        },
+        "quảng trạch": {
+            "number_people": "110.380",
+            "area": "447,9",
+            "distribute": "246",
+            "communes": "16"
+        },
+        "tuyên hóa": {
+            "number_people": "77.754",
+            "area": "1.128,7",
+            "distribute": "69",
+            "communes": "19"
+        }
+    },
+    "bà rịa – vũng tàu": {
+        "bà rịa": {
+            "number_people": "108.701",
+            "area": "91,0",
+            "distribute": "1.195",
+            "communes": "10"
+        },
+        "châu đức": {
+            "number_people": "143.859",
+            "area": "424,6",
+            "distribute": "339",
+            "communes": "16"
+        },
+        "côn đảo": {
+            "number_people": "8.827",
+            "area": "75,4",
+            "distribute": "117",
+            "communes": "0"
+        },
+        "long đất": {
+            "number_people": "209.293",
+            "area": "266,5",
+            "distribute": "2.139",
+            "communes": "11"
+        },
+        "phú mỹ": {
+            "number_people": "179.786",
+            "area": "333,8",
+            "distribute": "539",
+            "communes": "10"
+        },
+        "vũng tàu": {
+            "number_people": "357.124",
+            "area": "150,4",
+            "distribute": "2.374",
+            "communes": "17"
+        },
+        "xuyên mộc": {
+            "number_people": "140.723",
+            "area": "639,2",
+            "distribute": "220",
+            "communes": "13"
+        }
+    },
+    "thanh hóa": {
+        "bá thước": {
+            "number_people": "100.834",
+            "area": "777,6",
+            "distribute": "130",
+            "communes": "21"
+        },
+        "bỉm sơn": {
+            "number_people": "69.826",
+            "area": "63,9",
+            "distribute": "1.093",
+            "communes": "7"
+        },
+        "cẩm thủy": {
+            "number_people": "110.091",
+            "area": "424,5",
+            "distribute": "259",
+            "communes": "17"
+        },
+        "hà trung": {
+            "number_people": "118.826",
+            "area": "243,8",
+            "distribute": "487",
+            "communes": "19"
+        },
+        "hậu lộc": {
+            "number_people": "176.418",
+            "area": "143,7",
+            "distribute": "1.228",
+            "communes": "22"
+        },
+        "hoằng hóa": {
+            "number_people": "233.043",
+            "area": "203,8",
+            "distribute": "1.143",
+            "communes": "36"
+        },
+        "lang chánh": {
+            "number_people": "49.654",
+            "area": "585,6",
+            "distribute": "85",
+            "communes": "10"
+        },
+        "mường lát": {
+            "number_people": "39.948",
+            "area": "812,4",
+            "distribute": "49",
+            "communes": "8"
+        },
+        "nga sơn": {
+            "number_people": "141.114",
+            "area": "157,8",
+            "distribute": "894",
+            "communes": "23"
+        },
+        "nghi sơn": {
+            "number_people": "307.304",
+            "area": "455,6",
+            "distribute": "675",
+            "communes": "30"
+        },
+        "ngọc lặc": {
+            "number_people": "136.611",
+            "area": "491,0",
+            "distribute": "278",
+            "communes": "21"
+        },
+        "như thanh": {
+            "number_people": "94.906",
+            "area": "588,1",
+            "distribute": "161",
+            "communes": "14"
+        },
+        "như xuân": {
+            "number_people": "66.240",
+            "area": "721,7",
+            "distribute": "92",
+            "communes": "16"
+        },
+        "nông cống": {
+            "number_people": "182.801",
+            "area": "285,1",
+            "distribute": "641",
+            "communes": "29"
+        },
+        "quan hóa": {
+            "number_people": "48.856",
+            "area": "990,7",
+            "distribute": "49",
+            "communes": "15"
+        },
+        "quan sơn": {
+            "number_people": "40.526",
+            "area": "926,6",
+            "distribute": "44",
+            "communes": "12"
+        },
+        "quảng xương": {
+            "number_people": "199.943",
+            "area": "174,2",
+            "distribute": "1.148",
+            "communes": "26"
+        },
+        "sầm sơn": {
+            "number_people": "109.208",
+            "area": "44,9",
+            "distribute": "2.432",
+            "communes": "11"
+        },
+        "thạch thành": {
+            "number_people": "144.343",
+            "area": "559,2",
+            "distribute": "258",
+            "communes": "24"
+        },
+        "thanh hóa": {
+            "number_people": "436.833",
+            "area": "228,3",
+            "distribute": "3.403",
+            "communes": "47"
+        },
+        "thiệu hóa": {
+            "number_people": "160.732",
+            "area": "159,9",
+            "distribute": "1.005",
+            "communes": "24"
+        },
+        "thọ xuân": {
+            "number_people": "195.998",
+            "area": "292,3",
+            "distribute": "671",
+            "communes": "30"
+        },
+        "thường xuân": {
+            "number_people": "89.131",
+            "area": "1.107,2",
+            "distribute": "81",
+            "communes": "16"
+        },
+        "triệu sơn": {
+            "number_people": "202.386",
+            "area": "290,1",
+            "distribute": "698",
+            "communes": "32"
+        },
+        "vĩnh lộc": {
+            "number_people": "86.362",
+            "area": "157,7",
+            "distribute": "548",
+            "communes": "13"
+        },
+        "yên định": {
+            "number_people": "165.830",
+            "area": "228,8",
+            "distribute": "725",
+            "communes": "25"
+        }
+    },
+    "quảng ngãi": {
+        "ba tơ": {
+            "number_people": "59.438",
+            "area": "1.137,6",
+            "distribute": "52",
+            "communes": "19"
+        },
+        "bình sơn": {
+            "number_people": "181.050",
+            "area": "466,2",
+            "distribute": "388",
+            "communes": "22"
+        },
+        "đức phổ": {
+            "number_people": "150.927",
+            "area": "372,8",
+            "distribute": "405",
+            "communes": "15"
+        },
+        "lý sơn": {
+            "number_people": "22.174",
+            "area": "10,4",
+            "distribute": "2.132",
+            "communes": "0"
+        },
+        "minh long": {
+            "number_people": "18.722",
+            "area": "217,2",
+            "distribute": "86",
+            "communes": "5"
+        },
+        "mộ đức": {
+            "number_people": "112.592",
+            "area": "214,0",
+            "distribute": "526",
+            "communes": "12"
+        },
+        "nghĩa hành": {
+            "number_people": "82.250",
+            "area": "234,4",
+            "distribute": "351",
+            "communes": "12"
+        },
+        "quảng ngãi": {
+            "number_people": "261.417",
+            "area": "156,9",
+            "distribute": "1.666",
+            "communes": "22"
+        },
+        "sơn hà": {
+            "number_people": "78.377",
+            "area": "752,1",
+            "distribute": "104",
+            "communes": "14"
+        },
+        "sơn tây": {
+            "number_people": "21.174",
+            "area": "381,5",
+            "distribute": "56",
+            "communes": "9"
+        },
+        "sơn tịnh": {
+            "number_people": "95.843",
+            "area": "243,1",
+            "distribute": "394",
+            "communes": "11"
+        },
+        "trà bồng": {
+            "number_people": "53.379",
+            "area": "760,3",
+            "distribute": "70",
+            "communes": "16"
+        },
+        "tư nghĩa": {
+            "number_people": "128.661",
+            "area": "206,3",
+            "distribute": "624",
+            "communes": "13"
+        }
+    },
+    "bến tre": {
+        "ba tri": {
+            "number_people": "184.734",
+            "area": "367,2",
+            "distribute": "503",
+            "communes": "23"
+        },
+        "bến tre": {
+            "number_people": "124.499",
+            "area": "70,6",
+            "distribute": "1.763",
+            "communes": "12"
+        },
+        "bình đại": {
+            "number_people": "137.304",
+            "area": "427,3",
+            "distribute": "321",
+            "communes": "20"
+        },
+        "châu thành": {
+            "number_people": "175.893",
+            "area": "224,9",
+            "distribute": "782",
+            "communes": "16"
+        },
+        "chợ lách": {
+            "number_people": "111.418",
+            "area": "169,1",
+            "distribute": "659",
+            "communes": "11"
+        },
+        "giồng trôm": {
+            "number_people": "169.987",
+            "area": "312,6",
+            "distribute": "544",
+            "communes": "21"
+        },
+        "mỏ cày bắc": {
+            "number_people": "113.210",
+            "area": "165,2",
+            "distribute": "685",
+            "communes": "13"
+        },
+        "mỏ cày nam": {
+            "number_people": "143.577",
+            "area": "230,8",
+            "distribute": "622",
+            "communes": "16"
+        },
+        "thạnh phú": {
+            "number_people": "127.841",
+            "area": "426,5",
+            "distribute": "300",
+            "communes": "18"
+        }
+    },
+    "ninh thuận": {
+        "bác ái": {
+            "number_people": "30.598",
+            "area": "1.027,2",
+            "distribute": "30",
+            "communes": "9"
+        },
+        "ninh hải": {
+            "number_people": "92.231",
+            "area": "253,6",
+            "distribute": "364",
+            "communes": "9"
+        },
+        "ninh phước": {
+            "number_people": "128.028",
+            "area": "342,0",
+            "distribute": "374",
+            "communes": "9"
+        },
+        "ninh sơn": {
+            "number_people": "71.888",
+            "area": "771,8",
+            "distribute": "93",
+            "communes": "8"
+        },
+        "phan rang – tháp chàm": {
+            "number_people": "167.394",
+            "area": "79,2",
+            "distribute": "2.114",
+            "communes": "13"
+        },
+        "thuận bắc": {
+            "number_people": "43.322",
+            "area": "318,3",
+            "distribute": "136",
+            "communes": "6"
+        },
+        "thuận nam": {
+            "number_people": "57.006",
+            "area": "563,3",
+            "distribute": "101",
+            "communes": "8"
+        }
+    },
+    "bình thuận": {
+        "bắc bình": {
+            "number_people": "129.374",
+            "area": "1.868,8",
+            "distribute": "69",
+            "communes": "18"
+        },
+        "đức linh": {
+            "number_people": "126.035",
+            "area": "546,6",
+            "distribute": "231",
+            "communes": "12"
+        },
+        "hàm tân": {
+            "number_people": "70.697",
+            "area": "739,1",
+            "distribute": "96",
+            "communes": "10"
+        },
+        "hàm thuận bắc": {
+            "number_people": "184.131",
+            "area": "1.344,5",
+            "distribute": "137",
+            "communes": "17"
+        },
+        "hàm thuận nam": {
+            "number_people": "116.544",
+            "area": "1.058,4",
+            "distribute": "110",
+            "communes": "13"
+        },
+        "la gi": {
+            "number_people": "107.057",
+            "area": "185,4",
+            "distribute": "577",
+            "communes": "9"
+        },
+        "phan thiết": {
+            "number_people": "226.736",
+            "area": "210,9",
+            "distribute": "1.075",
+            "communes": "15"
+        },
+        "phú quý": {
+            "number_people": "26.918",
+            "area": "17,9",
+            "distribute": "1.504",
+            "communes": "3"
+        },
+        "tánh linh": {
+            "number_people": "98.516",
+            "area": "1.198,6",
+            "distribute": "82",
+            "communes": "13"
+        },
+        "tuy phong": {
+            "number_people": "144.800",
+            "area": "773,7",
+            "distribute": "187",
+            "communes": "11"
+        }
+    },
+    "bắc giang": {
+        "bắc giang": {
+            "number_people": "346.296",
+            "area": "258,4",
+            "distribute": "3.710",
+            "communes": "31"
+        },
+        "chũ": {
+            "number_people": "",
+            "area": "",
+            "distribute": "",
+            "communes": "10"
+        },
+        "hiệp hòa": {
+            "number_people": "247.460",
+            "area": "206,0",
+            "distribute": "1.201",
+            "communes": "19"
+        },
+        "lạng giang": {
+            "number_people": "216.996",
+            "area": "244,1",
+            "distribute": "889",
+            "communes": "19"
+        },
+        "lục nam": {
+            "number_people": "226.194",
+            "area": "608,6",
+            "distribute": "372",
+            "communes": "24"
+        },
+        "lục ngạn": {
+            "number_people": "226.540",
+            "area": "1.032,5",
+            "distribute": "219",
+            "communes": "19"
+        },
+        "sơn động": {
+            "number_people": "76.106",
+            "area": "860,2",
+            "distribute": "88",
+            "communes": "17"
+        },
+        "tân yên": {
+            "number_people": "177.265",
+            "area": "208,3",
+            "distribute": "851",
+            "communes": "19"
+        },
+        "việt yên": {
+            "number_people": "229.162",
+            "area": "171,0",
+            "distribute": "1.340",
+            "communes": "17"
+        },
+        "yên thế": {
+            "number_people": "101.135",
+            "area": "306,4",
+            "distribute": "330",
+            "communes": "17"
+        }
+    },
+    "lào cai": {
+        "bắc hà": {
+            "number_people": "65.338",
+            "area": "683,3",
+            "distribute": "96",
+            "communes": "18"
+        },
+        "bảo thắng": {
+            "number_people": "103.262",
+            "area": "652,0",
+            "distribute": "158",
+            "communes": "14"
+        },
+        "bảo yên": {
+            "number_people": "85.564",
+            "area": "818,3",
+            "distribute": "105",
+            "communes": "17"
+        },
+        "bát xát": {
+            "number_people": "74.388",
+            "area": "1.035,5",
+            "distribute": "72",
+            "communes": "21"
+        },
+        "lào cai": {
+            "number_people": "130.671",
+            "area": "282,1",
+            "distribute": "463",
+            "communes": "17"
+        },
+        "mường khương": {
+            "number_people": "63.682",
+            "area": "556,1",
+            "distribute": "115",
+            "communes": "16"
+        },
+        "sa pa": {
+            "number_people": "81.857",
+            "area": "681,4",
+            "distribute": "120",
+            "communes": "16"
+        },
+        "si ma cai": {
+            "number_people": "37.490",
+            "area": "234,9",
+            "distribute": "160",
+            "communes": "10"
+        },
+        "văn bàn": {
+            "number_people": "89.167",
+            "area": "1.423,5",
+            "distribute": "63",
+            "communes": "22"
+        }
+    },
+    "bạc liêu": {
+        "bạc liêu": {
+            "number_people": "156.110",
+            "area": "175,4",
+            "distribute": "890",
+            "communes": "10"
+        },
+        "đông hải": {
+            "number_people": "152.619",
+            "area": "570,1",
+            "distribute": "268",
+            "communes": "11"
+        },
+        "giá rai": {
+            "number_people": "143.613",
+            "area": "355,0",
+            "distribute": "405",
+            "communes": "10"
+        },
+        "hòa bình": {
+            "number_people": "117.753",
+            "area": "376,0",
+            "distribute": "313",
+            "communes": "8"
+        },
+        "hồng dân": {
+            "number_people": "111.848",
+            "area": "424,0",
+            "distribute": "264",
+            "communes": "9"
+        },
+        "phước long": {
+            "number_people": "124.268",
+            "area": "416,2",
+            "distribute": "299",
+            "communes": "8"
+        },
+        "vĩnh lợi": {
+            "number_people": "101.025",
+            "area": "251,0",
+            "distribute": "402",
+            "communes": "8"
+        }
+    },
+    "hà giang": {
+        "bắc mê": {
+            "number_people": "54.592",
+            "area": "856,1",
+            "distribute": "64",
+            "communes": "13"
+        },
+        "bắc quang": {
+            "number_people": "118.690",
+            "area": "1.105,6",
+            "distribute": "107",
+            "communes": "23"
+        },
+        "đồng văn": {
+            "number_people": "81.880",
+            "area": "451,7",
+            "distribute": "181",
+            "communes": "19"
+        },
+        "hà giang": {
+            "number_people": "55.559",
+            "area": "133,5",
+            "distribute": "416",
+            "communes": "8"
+        },
+        "hoàng su phì": {
+            "number_people": "66.683",
+            "area": "632,4",
+            "distribute": "105",
+            "communes": "24"
+        },
+        "mèo vạc": {
+            "number_people": "86.071",
+            "area": "574,2",
+            "distribute": "150",
+            "communes": "18"
+        },
+        "quản bạ": {
+            "number_people": "53.476",
+            "area": "542,2",
+            "distribute": "99",
+            "communes": "13"
+        },
+        "quang bình": {
+            "number_people": "61.711",
+            "area": "791,8",
+            "distribute": "78",
+            "communes": "15"
+        },
+        "vị xuyên": {
+            "number_people": "110.465",
+            "area": "1.478,4",
+            "distribute": "75",
+            "communes": "24"
+        },
+        "xín mần": {
+            "number_people": "67.999",
+            "area": "587,0",
+            "distribute": "116",
+            "communes": "18"
+        },
+        "yên minh": {
+            "number_people": "97.553",
+            "area": "776,6",
+            "distribute": "126",
+            "communes": "18"
+        }
+    },
+    "bắc ninh": {
+        "bắc ninh": {
+            "number_people": "288.766",
+            "area": "82,6",
+            "distribute": "3.494",
+            "communes": "17"
+        },
+        "gia bình": {
+            "number_people": "132.297",
+            "area": "107,6",
+            "distribute": "1.230",
+            "communes": "14"
+        },
+        "lương tài": {
+            "number_people": "127.291",
+            "area": "105,9",
+            "distribute": "1.202",
+            "communes": "12"
+        },
+        "quế võ": {
+            "number_people": "213.753",
+            "area": "155,1",
+            "distribute": "1.378",
+            "communes": "20"
+        },
+        "thuận thành": {
+            "number_people": "199.577",
+            "area": "117,8",
+            "distribute": "1.694",
+            "communes": "18"
+        },
+        "tiên du": {
+            "number_people": "195.993",
+            "area": "95,6",
+            "distribute": "2.049",
+            "communes": "14"
+        },
+        "từ sơn": {
+            "number_people": "192.554",
+            "area": "61,1",
+            "distribute": "3.152",
+            "communes": "12"
+        },
+        "yên phong": {
+            "number_people": "211.048",
+            "area": "96,9",
+            "distribute": "2.177",
+            "communes": "14"
+        }
+    },
+    "lạng sơn": {
+        "bắc sơn": {
+            "number_people": "71.967",
+            "area": "699,4",
+            "distribute": "103",
+            "communes": "18"
+        },
+        "bình gia": {
+            "number_people": "52.689",
+            "area": "1.094,2",
+            "distribute": "48",
+            "communes": "19"
+        },
+        "cao lộc": {
+            "number_people": "79.873",
+            "area": "619,1",
+            "distribute": "129",
+            "communes": "22"
+        },
+        "chi lăng": {
+            "number_people": "75.063",
+            "area": "704,2",
+            "distribute": "107",
+            "communes": "20"
+        },
+        "đình lập": {
+            "number_people": "28.579",
+            "area": "1.189,6",
+            "distribute": "24",
+            "communes": "12"
+        },
+        "hữu lũng": {
+            "number_people": "121.735",
+            "area": "807,6",
+            "distribute": "151",
+            "communes": "23"
+        },
+        "lạng sơn": {
+            "number_people": "103.284",
+            "area": "77,9",
+            "distribute": "1.326",
+            "communes": "8"
+        },
+        "lộc bình": {
+            "number_people": "84.740",
+            "area": "986,4",
+            "distribute": "86",
+            "communes": "20"
+        },
+        "tràng định": {
+            "number_people": "59.827",
+            "area": "1.016,7",
+            "distribute": "59",
+            "communes": "20"
+        },
+        "văn lãng": {
+            "number_people": "49.696",
+            "area": "567,4",
+            "distribute": "88",
+            "communes": "17"
+        },
+        "văn quan": {
+            "number_people": "54.202",
+            "area": "547,6",
+            "distribute": "99",
+            "communes": "15"
+        }
+    },
+    "bình dương": {
+        "bắc tân uyên": {
+            "number_people": "65.860",
+            "area": "400,3",
+            "distribute": "165",
+            "communes": "10"
+        },
+        "bàu bàng": {
+            "number_people": "92.679",
+            "area": "340,0",
+            "distribute": "273",
+            "communes": "7"
+        },
+        "bến cát": {
+            "number_people": "302.782",
+            "area": "234,4",
+            "distribute": "1.292",
+            "communes": "8"
+        },
+        "dầu tiếng": {
+            "number_people": "112.472",
+            "area": "721,1",
+            "distribute": "156",
+            "communes": "12"
+        },
+        "dĩ an": {
+            "number_people": "403.760",
+            "area": "60,1",
+            "distribute": "6.718",
+            "communes": "7"
+        },
+        "phú giáo": {
+            "number_people": "89.741",
+            "area": "544,4",
+            "distribute": "165",
+            "communes": "11"
+        },
+        "tân uyên": {
+            "number_people": "370.512",
+            "area": "191,8",
+            "distribute": "1.932",
+            "communes": "12"
+        },
+        "thủ dầu một": {
+            "number_people": "321.607",
+            "area": "118,9",
+            "distribute": "2.705",
+            "communes": "14"
+        },
+        "thuận an": {
+            "number_people": "508.433",
+            "area": "83,7",
+            "distribute": "6.074",
+            "communes": "10"
+        }
+    },
+    "quảng nam": {
+        "bắc trà my": {
+            "number_people": "41.335",
+            "area": "847,0",
+            "distribute": "49",
+            "communes": "13"
+        },
+        "đại lộc": {
+            "number_people": "141.851",
+            "area": "578,5",
+            "distribute": "245",
+            "communes": "18"
+        },
+        "điện bàn": {
+            "number_people": "226.564",
+            "area": "216,3",
+            "distribute": "1.047",
+            "communes": "20"
+        },
+        "đông giang": {
+            "number_people": "25.116",
+            "area": "821,9",
+            "distribute": "31",
+            "communes": "11"
+        },
+        "duy xuyên": {
+            "number_people": "126.686",
+            "area": "309,2",
+            "distribute": "410",
+            "communes": "13"
+        },
+        "hiệp đức": {
+            "number_people": "37.127",
+            "area": "496,9",
+            "distribute": "75",
+            "communes": "10"
+        },
+        "hội an": {
+            "number_people": "98.599",
+            "area": "63,6",
+            "distribute": "1.550",
+            "communes": "13"
+        },
+        "nam giang": {
+            "number_people": "26.123",
+            "area": "1.846,6",
+            "distribute": "14",
+            "communes": "12"
+        },
+        "nam trà my": {
+            "number_people": "31.306",
+            "area": "826,4",
+            "distribute": "38",
+            "communes": "10"
+        },
+        "núi thành": {
+            "number_people": "147.721",
+            "area": "555,8",
+            "distribute": "266",
+            "communes": "17"
+        },
+        "phú ninh": {
+            "number_people": "77.204",
+            "area": "255,7",
+            "distribute": "302",
+            "communes": "10"
+        },
+        "phước sơn": {
+            "number_people": "26.337",
+            "area": "1.153,3",
+            "distribute": "23",
+            "communes": "12"
+        },
+        "quế sơn": {
+            "number_people": "107.499",
+            "area": "728,9",
+            "distribute": "371",
+            "communes": "18"
+        },
+        "tam kỳ": {
+            "number_people": "122.374",
+            "area": "94,0",
+            "distribute": "1.302",
+            "communes": "12"
+        },
+        "tây giang": {
+            "number_people": "20.005",
+            "area": "913,7",
+            "distribute": "22",
+            "communes": "10"
+        },
+        "thăng bình": {
+            "number_people": "173.726",
+            "area": "412,4",
+            "distribute": "421",
+            "communes": "20"
+        },
+        "tiên phước": {
+            "number_people": "66.239",
+            "area": "454,6",
+            "distribute": "146",
+            "communes": "14"
+        }
+    },
+    "sơn la": {
+        "bắc yên": {
+            "number_people": "66.784",
+            "area": "1.098,6",
+            "distribute": "61",
+            "communes": "16"
+        },
+        "mai sơn": {
+            "number_people": "163.881",
+            "area": "1.426,7",
+            "distribute": "115",
+            "communes": "22"
+        },
+        "mộc châu": {
+            "number_people": "114.460",
+            "area": "1.071,7",
+            "distribute": "107",
+            "communes": "15"
+        },
+        "mường la": {
+            "number_people": "99.534",
+            "area": "1.425,4",
+            "distribute": "70",
+            "communes": "16"
+        },
+        "phù yên": {
+            "number_people": "114.974",
+            "area": "1.234,2",
+            "distribute": "93",
+            "communes": "25"
+        },
+        "quỳnh nhai": {
+            "number_people": "64.045",
+            "area": "1.056,0",
+            "distribute": "61",
+            "communes": "11"
+        },
+        "sơn la": {
+            "number_people": "106.052",
+            "area": "323,5",
+            "distribute": "328",
+            "communes": "12"
+        },
+        "sông mã": {
+            "number_people": "154.224",
+            "area": "1.639,9",
+            "distribute": "94",
+            "communes": "19"
+        },
+        "sốp cộp": {
+            "number_people": "50.215",
+            "area": "1.473,4",
+            "distribute": "34",
+            "communes": "8"
+        },
+        "thuận châu": {
+            "number_people": "172.763",
+            "area": "1.533,4",
+            "distribute": "113",
+            "communes": "28"
+        },
+        "vân hồ": {
+            "number_people": "62.188",
+            "area": "982,9",
+            "distribute": "63",
+            "communes": "14"
+        },
+        "yên châu": {
+            "number_people": "79.295",
+            "area": "857,8",
+            "distribute": "92",
+            "communes": "14"
+        }
+    },
+    "cao bằng": {
+        "bảo lạc": {
+            "number_people": "54.420",
+            "area": "920,7",
+            "distribute": "59",
+            "communes": "17"
+        },
+        "bảo lâm": {
+            "number_people": "65.025",
+            "area": "913,1",
+            "distribute": "71",
+            "communes": "13"
+        },
+        "cao bằng": {
+            "number_people": "73.549",
+            "area": "107,1",
+            "distribute": "687",
+            "communes": "11"
+        },
+        "hạ lang": {
+            "number_people": "25.439",
+            "area": "456,5",
+            "distribute": "56",
+            "communes": "13"
+        },
+        "hà quảng": {
+            "number_people": "59.467",
+            "area": "811,0",
+            "distribute": "73",
+            "communes": "21"
+        },
+        "hòa an": {
+            "number_people": "52.762",
+            "area": "606,0",
+            "distribute": "87",
+            "communes": "15"
+        },
+        "nguyên bình": {
+            "number_people": "39.654",
+            "area": "838,0",
+            "distribute": "47",
+            "communes": "17"
+        },
+        "quảng hòa": {
+            "number_people": "66.620",
+            "area": "669,0",
+            "distribute": "100",
+            "communes": "19"
+        },
+        "thạch an": {
+            "number_people": "29.820",
+            "area": "691,0",
+            "distribute": "43",
+            "communes": "14"
+        },
+        "trùng khánh": {
+            "number_people": "70.424",
+            "area": "688,0",
+            "distribute": "102",
+            "communes": "21"
+        }
+    },
+    "lâm đồng": {
+        "bảo lâm": {
+            "number_people": "118.090",
+            "area": "1.463,4",
+            "distribute": "81",
+            "communes": "14"
+        },
+        "bảo lộc": {
+            "number_people": "158.684",
+            "area": "233,2",
+            "distribute": "680",
+            "communes": "11"
+        },
+        "đạ huoai": {
+            "number_people": "112.696",
+            "area": "1.449,5",
+            "distribute": "234",
+            "communes": "23"
+        },
+        "đà lạt": {
+            "number_people": "226.578",
+            "area": "394,5",
+            "distribute": "574",
+            "communes": "16"
+        },
+        "đam rông": {
+            "number_people": "54.217",
+            "area": "872,1",
+            "distribute": "62",
+            "communes": "8"
+        },
+        "di linh": {
+            "number_people": "159.994",
+            "area": "1.614,2",
+            "distribute": "99",
+            "communes": "19"
+        },
+        "đơn dương": {
+            "number_people": "107.281",
+            "area": "611,4",
+            "distribute": "175",
+            "communes": "9"
+        },
+        "đức trọng": {
+            "number_people": "186.974",
+            "area": "903,6",
+            "distribute": "207",
+            "communes": "15"
+        },
+        "lạc dương": {
+            "number_people": "27.956",
+            "area": "1.311,4",
+            "distribute": "21",
+            "communes": "6"
+        },
+        "lâm hà": {
+            "number_people": "144.436",
+            "area": "930,2",
+            "distribute": "155",
+            "communes": "16"
+        }
+    },
+    "tây ninh": {
+        "bến cầu": {
+            "number_people": "69.849",
+            "area": "237,5",
+            "distribute": "294",
+            "communes": "9"
+        },
+        "châu thành": {
+            "number_people": "140.769",
+            "area": "580,9",
+            "distribute": "242",
+            "communes": "15"
+        },
+        "dương minh châu": {
+            "number_people": "119.158",
+            "area": "435,6",
+            "distribute": "274",
+            "communes": "11"
+        },
+        "gò dầu": {
+            "number_people": "152.757",
+            "area": "260,0",
+            "distribute": "588",
+            "communes": "9"
+        },
+        "hòa thành": {
+            "number_people": "147.666",
+            "area": "82,9",
+            "distribute": "1.781",
+            "communes": "10"
+        },
+        "tân biên": {
+            "number_people": "102.190",
+            "area": "861,0",
+            "distribute": "119",
+            "communes": "10"
+        },
+        "tân châu": {
+            "number_people": "134.743",
+            "area": "1.103,2",
+            "distribute": "122",
+            "communes": "12"
+        },
+        "tây ninh": {
+            "number_people": "133.805",
+            "area": "140,0",
+            "distribute": "956",
+            "communes": "10"
+        },
+        "trảng bàng": {
+            "number_people": "161.831",
+            "area": "340,1",
+            "distribute": "476",
+            "communes": "10"
+        }
+    },
+    "long an": {
+        "bến lức": {
+            "number_people": "181.660",
+            "area": "287,9",
+            "distribute": "631",
+            "communes": "14"
+        },
+        "cần đước": {
+            "number_people": "187.359",
+            "area": "220,5",
+            "distribute": "850",
+            "communes": "17"
+        },
+        "cần giuộc": {
+            "number_people": "214.914",
+            "area": "215,1",
+            "distribute": "999",
+            "communes": "15"
+        },
+        "châu thành": {
+            "number_people": "109.812",
+            "area": "155,2",
+            "distribute": "708",
+            "communes": "13"
+        },
+        "đức hòa": {
+            "number_people": "315.711",
+            "area": "425,1",
+            "distribute": "743",
+            "communes": "20"
+        },
+        "đức huệ": {
+            "number_people": "65.961",
+            "area": "428,9",
+            "distribute": "154",
+            "communes": "11"
+        },
+        "kiến tường": {
+            "number_people": "43.674",
+            "area": "204,4",
+            "distribute": "214",
+            "communes": "8"
+        },
+        "mộc hóa": {
+            "number_people": "28.165",
+            "area": "300,0",
+            "distribute": "94",
+            "communes": "7"
+        },
+        "tân an": {
+            "number_people": "145.120",
+            "area": "81,7",
+            "distribute": "1.776",
+            "communes": "13"
+        },
+        "tân hưng": {
+            "number_people": "47.651",
+            "area": "501,9",
+            "distribute": "95",
+            "communes": "12"
+        },
+        "tân thạnh": {
+            "number_people": "77.537",
+            "area": "422,9",
+            "distribute": "183",
+            "communes": "13"
+        },
+        "tân trụ": {
+            "number_people": "66.502",
+            "area": "106,4",
+            "distribute": "625",
+            "communes": "10"
+        },
+        "thạnh hóa": {
+            "number_people": "56.074",
+            "area": "467,9",
+            "distribute": "120",
+            "communes": "11"
+        },
+        "thủ thừa": {
+            "number_people": "98.333",
+            "area": "299,1",
+            "distribute": "329",
+            "communes": "12"
+        },
+        "vĩnh hưng": {
+            "number_people": "50.074",
+            "area": "378,1",
+            "distribute": "132",
+            "communes": "10"
+        }
+    },
+    "đồng nai": {
+        "biên hòa": {
+            "number_people": "1.055.414",
+            "area": "263,6",
+            "distribute": "4.004",
+            "communes": "25"
+        },
+        "cẩm mỹ": {
+            "number_people": "139.362",
+            "area": "468,6",
+            "distribute": "297",
+            "communes": "13"
+        },
+        "định quán": {
+            "number_people": "187.306",
+            "area": "971,1",
+            "distribute": "193",
+            "communes": "14"
+        },
+        "long khánh": {
+            "number_people": "171.276",
+            "area": "191,8",
+            "distribute": "893",
+            "communes": "13"
+        },
+        "long thành": {
+            "number_people": "246.051",
+            "area": "430,7",
+            "distribute": "571",
+            "communes": "14"
+        },
+        "nhơn trạch": {
+            "number_people": "260.592",
+            "area": "410,8",
+            "distribute": "634",
+            "communes": "12"
+        },
+        "tân phú": {
+            "number_people": "153.080",
+            "area": "776,9",
+            "distribute": "197",
+            "communes": "16"
+        },
+        "thống nhất": {
+            "number_people": "163.905",
+            "area": "247,2",
+            "distribute": "663",
+            "communes": "10"
+        },
+        "trảng bom": {
+            "number_people": "349.279",
+            "area": "323,7",
+            "distribute": "1.079",
+            "communes": "17"
+        },
+        "vĩnh cửu": {
+            "number_people": "164.003",
+            "area": "1.095,7",
+            "distribute": "150",
+            "communes": "10"
+        },
+        "xuân lộc": {
+            "number_people": "226.648",
+            "area": "727,2",
+            "distribute": "312",
+            "communes": "15"
+        }
+    },
+    "thành phố hồ chí minh": {
+        "bình chánh": {
+            "number_people": "705.508",
+            "area": "252,7",
+            "distribute": "2.792",
+            "communes": "16"
+        },
+        "bình tân": {
+            "number_people": "784.173",
+            "area": "51,9",
+            "distribute": "15.109",
+            "communes": "10"
+        },
+        "bình thạnh": {
+            "number_people": "499.164",
+            "area": "20,8",
+            "distribute": "23.998",
+            "communes": "15"
+        },
+        "cần giờ": {
+            "number_people": "71.526",
+            "area": "704,2",
+            "distribute": "102",
+            "communes": "7"
+        },
+        "củ chi": {
+            "number_people": "462.047",
+            "area": "434,5",
+            "distribute": "1.063",
+            "communes": "21"
+        },
+        "gò vấp": {
+            "number_people": "676.899",
+            "area": "19,7",
+            "distribute": "34.360",
+            "communes": "12"
+        },
+        "hóc môn": {
+            "number_people": "542.243",
+            "area": "109,2",
+            "distribute": "4.966",
+            "communes": "12"
+        },
+        "nhà bè": {
+            "number_people": "206.837",
+            "area": "100,4",
+            "distribute": "2.060",
+            "communes": "7"
+        },
+        "phú nhuận": {
+            "number_people": "163.961",
+            "area": "4,9",
+            "distribute": "33.461",
+            "communes": "11"
+        },
+        "quận 1": {
+            "number_people": "142.625",
+            "area": "7,7",
+            "distribute": "18.523",
+            "communes": "10"
+        },
+        "quận 3": {
+            "number_people": "190.375",
+            "area": "4,9",
+            "distribute": "38.852",
+            "communes": "10"
+        },
+        "quận 4": {
+            "number_people": "175.329",
+            "area": "4,2",
+            "distribute": "41.745",
+            "communes": "10"
+        },
+        "quận 5": {
+            "number_people": "159.073",
+            "area": "4,3",
+            "distribute": "36.994",
+            "communes": "10"
+        },
+        "quận 6": {
+            "number_people": "233.561",
+            "area": "7,2",
+            "distribute": "32.439",
+            "communes": "10"
+        },
+        "quận 7": {
+            "number_people": "360.155",
+            "area": "35,7",
+            "distribute": "10.088",
+            "communes": "10"
+        },
+        "quận 8": {
+            "number_people": "424.667",
+            "area": "19,2",
+            "distribute": "22.118",
+            "communes": "10"
+        },
+        "quận 10": {
+            "number_people": "234.819",
+            "area": "5,7",
+            "distribute": "41.196",
+            "communes": "11"
+        },
+        "quận 11": {
+            "number_people": "209.867",
+            "area": "5,1",
+            "distribute": "41.150",
+            "communes": "10"
+        },
+        "quận 12": {
+            "number_people": "620.146",
+            "area": "52,8",
+            "distribute": "11.745",
+            "communes": "11"
+        },
+        "tân bình": {
+            "number_people": "474.792",
+            "area": "22,4",
+            "distribute": "21.196",
+            "communes": "15"
+        },
+        "tân phú": {
+            "number_people": "485.348",
+            "area": "16,1",
+            "distribute": "30.146",
+            "communes": "11"
+        },
+        "thủ đức": {
+            "number_people": "1.013.795",
+            "area": "211,6",
+            "distribute": "4.791",
+            "communes": "34"
+        }
+    },
+    "hải dương": {
+        "bình giang": {
+            "number_people": "119.229",
+            "area": "106,2",
+            "distribute": "1.123",
+            "communes": "15"
+        },
+        "cẩm giàng": {
+            "number_people": "147.810",
+            "area": "110,1",
+            "distribute": "1.343",
+            "communes": "15"
+        },
+        "chí linh": {
+            "number_people": "220.421",
+            "area": "282,9",
+            "distribute": "779",
+            "communes": "19"
+        },
+        "gia lộc": {
+            "number_people": "115.617",
+            "area": "99,7",
+            "distribute": "1.160",
+            "communes": "14"
+        },
+        "hải dương": {
+            "number_people": "299.638",
+            "area": "111,6",
+            "distribute": "2.684",
+            "communes": "24"
+        },
+        "kim thành": {
+            "number_people": "136.150",
+            "area": "115,1",
+            "distribute": "1.183",
+            "communes": "14"
+        },
+        "kinh môn": {
+            "number_people": "203.638",
+            "area": "165,3",
+            "distribute": "1.232",
+            "communes": "22"
+        },
+        "nam sách": {
+            "number_people": "126.325",
+            "area": "111,0",
+            "distribute": "1.138",
+            "communes": "15"
+        },
+        "ninh giang": {
+            "number_people": "146.493",
+            "area": "136,8",
+            "distribute": "1.071",
+            "communes": "16"
+        },
+        "thanh hà": {
+            "number_people": "136.858",
+            "area": "140,7",
+            "distribute": "973",
+            "communes": "16"
+        },
+        "thanh miện": {
+            "number_people": "137.537",
+            "area": "123,5",
+            "distribute": "1.114",
+            "communes": "17"
+        },
+        "tứ kỳ": {
+            "number_people": "152.541",
+            "area": "165,3",
+            "distribute": "923",
+            "communes": "20"
+        }
+    },
+    "bình phước": {
+        "bình long": {
+            "number_people": "57.598",
+            "area": "126,2",
+            "distribute": "456",
+            "communes": "6"
+        },
+        "bù đăng": {
+            "number_people": "140.077",
+            "area": "1.501,2",
+            "distribute": "93",
+            "communes": "16"
+        },
+        "bù đốp": {
+            "number_people": "57.311",
+            "area": "381,5",
+            "distribute": "150",
+            "communes": "7"
+        },
+        "bù gia mập": {
+            "number_people": "85.013",
+            "area": "1.064,3",
+            "distribute": "80",
+            "communes": "8"
+        },
+        "chơn thành": {
+            "number_people": "121.083",
+            "area": "389,6",
+            "distribute": "310",
+            "communes": "9"
+        },
+        "đồng phú": {
+            "number_people": "96.481",
+            "area": "936,2",
+            "distribute": "103",
+            "communes": "11"
+        },
+        "đồng xoài": {
+            "number_people": "150.052",
+            "area": "167,3",
+            "distribute": "897",
+            "communes": "8"
+        },
+        "hớn quản": {
+            "number_people": "98.817",
+            "area": "664,1",
+            "distribute": "149",
+            "communes": "13"
+        },
+        "lộc ninh": {
+            "number_people": "114.319",
+            "area": "853,3",
+            "distribute": "134",
+            "communes": "16"
+        },
+        "phú riềng": {
+            "number_people": "91.450",
+            "area": "674,7",
+            "distribute": "136",
+            "communes": "10"
+        },
+        "phước long": {
+            "number_people": "53.992",
+            "area": "119,4",
+            "distribute": "452",
+            "communes": "7"
+        }
+    },
+    "hà nam": {
+        "bình lục": {
+            "number_people": "133.046",
+            "area": "144,2",
+            "distribute": "923",
+            "communes": "15"
+        },
+        "duy tiên": {
+            "number_people": "177.150",
+            "area": "120,9",
+            "distribute": "1.363",
+            "communes": "15"
+        },
+        "kim bảng": {
+            "number_people": "125.634",
+            "area": "175,4",
+            "distribute": "716",
+            "communes": "17"
+        },
+        "lý nhân": {
+            "number_people": "195.000",
+            "area": "168,8",
+            "distribute": "1.155",
+            "communes": "21"
+        },
+        "phủ lý": {
+            "number_people": "158.212",
+            "area": "87,6",
+            "distribute": "1.806",
+            "communes": "14"
+        },
+        "thanh liêm": {
+            "number_people": "118.569",
+            "area": "164,9",
+            "distribute": "719",
+            "communes": "16"
+        }
+    },
+    "vĩnh long": {
+        "bình minh": {
+            "number_people": "95.639",
+            "area": "93,6",
+            "distribute": "1.021",
+            "communes": "8"
+        },
+        "bình tân": {
+            "number_people": "95.709",
+            "area": "158,1",
+            "distribute": "605",
+            "communes": "9"
+        },
+        "long hồ": {
+            "number_people": "167.698",
+            "area": "196,3",
+            "distribute": "854",
+            "communes": "14"
+        },
+        "mang thít": {
+            "number_people": "96.172",
+            "area": "162,5",
+            "distribute": "592",
+            "communes": "12"
+        },
+        "tam bình": {
+            "number_people": "151.520",
+            "area": "290,7",
+            "distribute": "521",
+            "communes": "16"
+        },
+        "trà ôn": {
+            "number_people": "129.589",
+            "area": "267,2",
+            "distribute": "485",
+            "communes": "13"
+        },
+        "vĩnh long": {
+            "number_people": "137.870",
+            "area": "47,8",
+            "distribute": "2.884",
+            "communes": "10"
+        },
+        "vũng liêm": {
+            "number_people": "149.371",
+            "area": "309,6",
+            "distribute": "482",
+            "communes": "20"
+        }
+    },
+    "cần thơ": {
+        "bình thủy": {
+            "number_people": "142.164",
+            "area": "71,1",
+            "distribute": "1.999",
+            "communes": "8"
+        },
+        "cái răng": {
+            "number_people": "105.393",
+            "area": "66,8",
+            "distribute": "1.578",
+            "communes": "7"
+        },
+        "cờ đỏ": {
+            "number_people": "116.576",
+            "area": "319,8",
+            "distribute": "365",
+            "communes": "10"
+        },
+        "ninh kiều": {
+            "number_people": "280.494",
+            "area": "29,2",
+            "distribute": "9.606",
+            "communes": "8"
+        },
+        "ô môn": {
+            "number_people": "128.677",
+            "area": "131,9",
+            "distribute": "976",
+            "communes": "7"
+        },
+        "phong điền": {
+            "number_people": "98.424",
+            "area": "126,3",
+            "distribute": "779",
+            "communes": "7"
+        },
+        "thới lai": {
+            "number_people": "109.684",
+            "area": "266,9",
+            "distribute": "411",
+            "communes": "13"
+        },
+        "thốt nốt": {
+            "number_people": "155.360",
+            "area": "122,0",
+            "distribute": "1.273",
+            "communes": "9"
+        },
+        "vĩnh thạnh": {
+            "number_people": "98.399",
+            "area": "305,8",
+            "distribute": "322",
+            "communes": "11"
+        }
+    },
+    "vĩnh phúc": {
+        "bình xuyên": {
+            "number_people": "131.013",
+            "area": "148,5",
+            "distribute": "882",
+            "communes": "13"
+        },
+        "lập thạch": {
+            "number_people": "136.150",
+            "area": "172,2",
+            "distribute": "791",
+            "communes": "19"
+        },
+        "phúc yên": {
+            "number_people": "106.002",
+            "area": "120,1",
+            "distribute": "883",
+            "communes": "9"
+        },
+        "sông lô": {
+            "number_people": "98.738",
+            "area": "149,9",
+            "distribute": "659",
+            "communes": "14"
+        },
+        "tam đảo": {
+            "number_people": "83.931",
+            "area": "234,7",
+            "distribute": "358",
+            "communes": "9"
+        },
+        "tam dương": {
+            "number_people": "114.391",
+            "area": "108,3",
+            "distribute": "1.056",
+            "communes": "12"
+        },
+        "vĩnh tường": {
+            "number_people": "205.345",
+            "area": "144,0",
+            "distribute": "1.426",
+            "communes": "20"
+        },
+        "vĩnh yên": {
+            "number_people": "124.455",
+            "area": "50,4",
+            "distribute": "2.469",
+            "communes": "9"
+        },
+        "yên lạc": {
+            "number_people": "156.456",
+            "area": "107,7",
+            "distribute": "1.453",
+            "communes": "16"
+        }
+    },
+    "đắk lắk": {
+        "buôn đôn": {
+            "number_people": "64.251",
+            "area": "1.410,4",
+            "distribute": "46",
+            "communes": "7"
+        },
+        "buôn hồ": {
+            "number_people": "98.732",
+            "area": "282,5",
+            "distribute": "349",
+            "communes": "11"
+        },
+        "buôn ma thuột": {
+            "number_people": "375.590",
+            "area": "377,2",
+            "distribute": "996",
+            "communes": "19"
+        },
+        "cư kuin": {
+            "number_people": "101.247",
+            "area": "288,3",
+            "distribute": "351",
+            "communes": "8"
+        },
+        "cư m'gar": {
+            "number_people": "177.622",
+            "area": "824,4",
+            "distribute": "215",
+            "communes": "17"
+        },
+        "ea h'leo": {
+            "number_people": "136.880",
+            "area": "1.335,1",
+            "distribute": "103",
+            "communes": "12"
+        },
+        "ea kar": {
+            "number_people": "144.450",
+            "area": "1.037,5",
+            "distribute": "139",
+            "communes": "16"
+        },
+        "ea súp": {
+            "number_people": "70.724",
+            "area": "1.765,6",
+            "distribute": "40",
+            "communes": "10"
+        },
+        "krông ana": {
+            "number_people": "79.892",
+            "area": "356,1",
+            "distribute": "224",
+            "communes": "8"
+        },
+        "krông bông": {
+            "number_people": "92.064",
+            "area": "1.257,5",
+            "distribute": "73",
+            "communes": "13"
+        },
+        "krông búk": {
+            "number_people": "64.859",
+            "area": "357,8",
+            "distribute": "181",
+            "communes": "7"
+        },
+        "krông năng": {
+            "number_people": "126.366",
+            "area": "614,8",
+            "distribute": "206",
+            "communes": "12"
+        },
+        "krông pắc": {
+            "number_people": "194.607",
+            "area": "625,8",
+            "distribute": "311",
+            "communes": "16"
+        },
+        "lắk": {
+            "number_people": "69.885",
+            "area": "1.256,0",
+            "distribute": "56",
+            "communes": "11"
+        },
+        "m'drắk": {
+            "number_people": "72.153",
+            "area": "1.336,3",
+            "distribute": "54",
+            "communes": "13"
+        }
+    },
+    "cà mau": {
+        "cà mau": {
+            "number_people": "226.372",
+            "area": "249,2",
+            "distribute": "908",
+            "communes": "16"
+        },
+        "cái nước": {
+            "number_people": "136.638",
+            "area": "417,1",
+            "distribute": "328",
+            "communes": "11"
+        },
+        "đầm dơi": {
+            "number_people": "175.629",
+            "area": "810,0",
+            "distribute": "217",
+            "communes": "16"
+        },
+        "năm căn": {
+            "number_people": "56.813",
+            "area": "482,8",
+            "distribute": "118",
+            "communes": "8"
+        },
+        "ngọc hiển": {
+            "number_people": "66.874",
+            "area": "708,6",
+            "distribute": "94",
+            "communes": "7"
+        },
+        "phú tân": {
+            "number_people": "97.703",
+            "area": "461,9",
+            "distribute": "218",
+            "communes": "9"
+        },
+        "thới bình": {
+            "number_people": "135.892",
+            "area": "636,4",
+            "distribute": "214",
+            "communes": "12"
+        },
+        "trần văn thời": {
+            "number_people": "197.679",
+            "area": "697,5",
+            "distribute": "283",
+            "communes": "13"
+        },
+        "u minh": {
+            "number_people": "100.876",
+            "area": "771,8",
+            "distribute": "131",
+            "communes": "8"
+        }
+    },
+    "tiền giang": {
+        "cái bè": {
+            "number_people": "292.738",
+            "area": "416,4",
+            "distribute": "703",
+            "communes": "25"
+        },
+        "cai lậy": {
+            "number_people": "193.328",
+            "area": "294,8",
+            "distribute": "656",
+            "communes": "16"
+        },
+        "châu thành": {
+            "number_people": "263.426",
+            "area": "232,6",
+            "distribute": "1.133",
+            "communes": "20"
+        },
+        "chợ gạo": {
+            "number_people": "187.711",
+            "area": "230,9",
+            "distribute": "813",
+            "communes": "19"
+        },
+        "gò công": {
+            "number_people": "99.657",
+            "area": "101,7",
+            "distribute": "980",
+            "communes": "10"
+        },
+        "gò công đông": {
+            "number_people": "139.060",
+            "area": "273,2",
+            "distribute": "509",
+            "communes": "13"
+        },
+        "gò công tây": {
+            "number_people": "127.132",
+            "area": "184,5",
+            "distribute": "689",
+            "communes": "13"
+        },
+        "mỹ tho": {
+            "number_people": "228.109",
+            "area": "82,3",
+            "distribute": "2.772",
+            "communes": "14"
+        },
+        "tân phú đông": {
+            "number_people": "42.078",
+            "area": "223,1",
+            "distribute": "189",
+            "communes": "6"
+        },
+        "tân phước": {
+            "number_people": "65.331",
+            "area": "330,1",
+            "distribute": "198",
+            "communes": "12"
+        }
+    },
+    "phú thọ": {
+        "cẩm khê": {
+            "number_people": "139.424",
+            "area": "233,9",
+            "distribute": "596",
+            "communes": "16"
+        },
+        "đoan hùng": {
+            "number_people": "115.131",
+            "area": "302,9",
+            "distribute": "380",
+            "communes": "14"
+        },
+        "hạ hòa": {
+            "number_people": "104.997",
+            "area": "341,5",
+            "distribute": "307",
+            "communes": "20"
+        },
+        "lâm thao": {
+            "number_people": "107.989",
+            "area": "98,4",
+            "distribute": "1.097",
+            "communes": "12"
+        },
+        "phù ninh": {
+            "number_people": "111.011",
+            "area": "157,4",
+            "distribute": "705",
+            "communes": "17"
+        },
+        "phú thọ": {
+            "number_people": "70.653",
+            "area": "65,2",
+            "distribute": "1.084",
+            "communes": "9"
+        },
+        "tam nông": {
+            "number_people": "87.931",
+            "area": "155,6",
+            "distribute": "565",
+            "communes": "12"
+        },
+        "tân sơn": {
+            "number_people": "85.731",
+            "area": "688,6",
+            "distribute": "125",
+            "communes": "17"
+        },
+        "thanh ba": {
+            "number_people": "115.470",
+            "area": "194,7",
+            "distribute": "593",
+            "communes": "19"
+        },
+        "thanh sơn": {
+            "number_people": "133.132",
+            "area": "621,1",
+            "distribute": "214",
+            "communes": "23"
+        },
+        "thanh thủy": {
+            "number_people": "84.622",
+            "area": "125,7",
+            "distribute": "673",
+            "communes": "11"
+        },
+        "việt trì": {
+            "number_people": "214.777",
+            "area": "111,5",
+            "distribute": "1.926",
+            "communes": "20"
+        },
+        "yên lập": {
+            "number_people": "92.858",
+            "area": "438,2",
+            "distribute": "212",
+            "communes": "17"
+        }
+    },
+    "khánh hòa": {
+        "cam lâm": {
+            "number_people": "108.979",
+            "area": "547,2",
+            "distribute": "199",
+            "communes": "14"
+        },
+        "cam ranh": {
+            "number_people": "130.814",
+            "area": "327,0",
+            "distribute": "400",
+            "communes": "15"
+        },
+        "diên khánh": {
+            "number_people": "143.211",
+            "area": "337,6",
+            "distribute": "424",
+            "communes": "17"
+        },
+        "khánh sơn": {
+            "number_people": "25.349",
+            "area": "338,5",
+            "distribute": "75",
+            "communes": "8"
+        },
+        "khánh vĩnh": {
+            "number_people": "39.780",
+            "area": "1.167,2",
+            "distribute": "34",
+            "communes": "14"
+        },
+        "nha trang": {
+            "number_people": "422.601",
+            "area": "254,3",
+            "distribute": "1.660",
+            "communes": "22"
+        },
+        "ninh hòa": {
+            "number_people": "230.049",
+            "area": "1.108,0",
+            "distribute": "208",
+            "communes": "26"
+        },
+        "trường sa": {
+            "number_people": "93",
+            "area": "496,3",
+            "distribute": "0",
+            "communes": "3"
+        },
+        "vạn ninh": {
+            "number_people": "130.231",
+            "area": "561,8",
+            "distribute": "232",
+            "communes": "13"
+        }
+    },
+    "đà nẵng": {
+        "cẩm lệ": {
+            "number_people": "159.295",
+            "area": "35,8",
+            "distribute": "4.450",
+            "communes": "6"
+        },
+        "hải châu": {
+            "number_people": "201.522",
+            "area": "23,3",
+            "distribute": "8.649",
+            "communes": "9"
+        },
+        "hòa vang": {
+            "number_people": "145.749",
+            "area": "733,2",
+            "distribute": "199",
+            "communes": "11"
+        },
+        "hoàng sa": {
+            "number_people": "0",
+            "area": "305,0",
+            "distribute": "0",
+            "communes": "0"
+        },
+        "liên chiểu": {
+            "number_people": "166.832",
+            "area": "80,9",
+            "distribute": "2.060",
+            "communes": "5"
+        },
+        "ngũ hành sơn": {
+            "number_people": "90.352",
+            "area": "40,2",
+            "distribute": "2.248",
+            "communes": "4"
+        },
+        "sơn trà": {
+            "number_people": "157.415",
+            "area": "63,4",
+            "distribute": "2.483",
+            "communes": "6"
+        },
+        "thanh khê": {
+            "number_people": "236.754",
+            "area": "10,5",
+            "distribute": "22.548",
+            "communes": "6"
+        }
+    },
+    "quảng trị": {
+        "cam lộ": {
+            "number_people": "47.777",
+            "area": "344,5",
+            "distribute": "139",
+            "communes": "8"
+        },
+        "cồn cỏ": {
+            "number_people": "346",
+            "area": "2,3",
+            "distribute": "150",
+            "communes": "0"
+        },
+        "đakrông": {
+            "number_people": "43.208",
+            "area": "1.224,5",
+            "distribute": "35",
+            "communes": "13"
+        },
+        "đông hà": {
+            "number_people": "95.658",
+            "area": "73,0",
+            "distribute": "1.310",
+            "communes": "9"
+        },
+        "gio linh": {
+            "number_people": "75.276",
+            "area": "473,8",
+            "distribute": "159",
+            "communes": "14"
+        },
+        "hải lăng": {
+            "number_people": "79.533",
+            "area": "425,1",
+            "distribute": "187",
+            "communes": "15"
+        },
+        "hướng hóa": {
+            "number_people": "90.918",
+            "area": "1.152,8",
+            "distribute": "79",
+            "communes": "21"
+        },
+        "quảng trị": {
+            "number_people": "23.356",
+            "area": "72,9",
+            "distribute": "320",
+            "communes": "5"
+        },
+        "triệu phong": {
+            "number_people": "88.852",
+            "area": "353,8",
+            "distribute": "251",
+            "communes": "16"
+        },
+        "vĩnh linh": {
+            "number_people": "87.451",
+            "area": "617,2",
+            "distribute": "142",
+            "communes": "18"
+        }
+    },
+    "hà tĩnh": {
+        "cẩm xuyên": {
+            "number_people": "149.313",
+            "area": "636,4",
+            "distribute": "235",
+            "communes": "21"
+        },
+        "can lộc": {
+            "number_people": "129.098",
+            "area": "302,1",
+            "distribute": "427",
+            "communes": "17"
+        },
+        "đức thọ": {
+            "number_people": "101.562",
+            "area": "203,5",
+            "distribute": "499",
+            "communes": "16"
+        },
+        "hà tĩnh": {
+            "number_people": "104.037",
+            "area": "56,6",
+            "distribute": "1.838",
+            "communes": "27"
+        },
+        "hồng lĩnh": {
+            "number_people": "38.411",
+            "area": "59,0",
+            "distribute": "651",
+            "communes": "6"
+        },
+        "hương khê": {
+            "number_people": "99.307",
+            "area": "1.262,7",
+            "distribute": "79",
+            "communes": "20"
+        },
+        "hương sơn": {
+            "number_people": "112.426",
+            "area": "1.096,8",
+            "distribute": "103",
+            "communes": "22"
+        },
+        "kỳ anh": {
+            "number_people": "121.662",
+            "area": "759,6",
+            "distribute": "160",
+            "communes": "20"
+        },
+        "nghi xuân": {
+            "number_people": "102.160",
+            "area": "222,5",
+            "distribute": "459",
+            "communes": "17"
+        },
+        "thạch hà": {
+            "number_people": "219.391",
+            "area": "471,3",
+            "distribute": "1.070",
+            "communes": "22"
+        },
+        "vũ quang": {
+            "number_people": "28.544",
+            "area": "637,7",
+            "distribute": "45",
+            "communes": "10"
+        }
+    },
+    "trà vinh": {
+        "càng long": {
+            "number_people": "147.694",
+            "area": "293,9",
+            "distribute": "503",
+            "communes": "14"
+        },
+        "cầu kè": {
+            "number_people": "102.767",
+            "area": "246,6",
+            "distribute": "417",
+            "communes": "11"
+        },
+        "cầu ngang": {
+            "number_people": "121.254",
+            "area": "328,4",
+            "distribute": "369",
+            "communes": "15"
+        },
+        "châu thành": {
+            "number_people": "144.040",
+            "area": "343,1",
+            "distribute": "420",
+            "communes": "14"
+        },
+        "duyên hải": {
+            "number_people": "78.444",
+            "area": "305,4",
+            "distribute": "257",
+            "communes": "7"
+        },
+        "tiểu cần": {
+            "number_people": "107.846",
+            "area": "227,2",
+            "distribute": "475",
+            "communes": "11"
+        },
+        "trà cú": {
+            "number_people": "146.329",
+            "area": "317,5",
+            "distribute": "461",
+            "communes": "17"
+        },
+        "trà vinh": {
+            "number_people": "112.584",
+            "area": "67,9",
+            "distribute": "1.658",
+            "communes": "8"
+        }
+    },
+    "đồng tháp": {
+        "cao lãnh": {
+            "number_people": "197.614",
+            "area": "491,1",
+            "distribute": "402",
+            "communes": "13"
+        },
+        "châu thành": {
+            "number_people": "146.812",
+            "area": "246,2",
+            "distribute": "596",
+            "communes": "12"
+        },
+        "hồng ngự": {
+            "number_people": "120.571",
+            "area": "209,6",
+            "distribute": "575",
+            "communes": "10"
+        },
+        "lai vung": {
+            "number_people": "164.240",
+            "area": "238,7",
+            "distribute": "688",
+            "communes": "12"
+        },
+        "lấp vò": {
+            "number_people": "180.627",
+            "area": "246,0",
+            "distribute": "734",
+            "communes": "13"
+        },
+        "sa đéc": {
+            "number_people": "106.198",
+            "area": "59,1",
+            "distribute": "1.797",
+            "communes": "9"
+        },
+        "tam nông": {
+            "number_people": "99.995",
+            "area": "475,0",
+            "distribute": "211",
+            "communes": "12"
+        },
+        "tân hồng": {
+            "number_people": "75.456",
+            "area": "311,0",
+            "distribute": "243",
+            "communes": "9"
+        },
+        "thanh bình": {
+            "number_people": "134.903",
+            "area": "341,9",
+            "distribute": "395",
+            "communes": "13"
+        },
+        "tháp mười": {
+            "number_people": "131.791",
+            "area": "530,0",
+            "distribute": "249",
+            "communes": "13"
+        }
+    },
+    "hòa bình": {
+        "cao phong": {
+            "number_people": "45.470",
+            "area": "255,2",
+            "distribute": "178",
+            "communes": "10"
+        },
+        "đà bắc": {
+            "number_people": "55.002",
+            "area": "778,0",
+            "distribute": "71",
+            "communes": "17"
+        },
+        "hòa bình": {
+            "number_people": "135.718",
+            "area": "348,7",
+            "distribute": "389",
+            "communes": "19"
+        },
+        "kim bôi": {
+            "number_people": "118.767",
+            "area": "551,0",
+            "distribute": "216",
+            "communes": "17"
+        },
+        "lạc sơn": {
+            "number_people": "136.652",
+            "area": "587,5",
+            "distribute": "233",
+            "communes": "24"
+        },
+        "lạc thủy": {
+            "number_people": "60.393",
+            "area": "313,6",
+            "distribute": "193",
+            "communes": "10"
+        },
+        "lương sơn": {
+            "number_people": "99.457",
+            "area": "364,9",
+            "distribute": "273",
+            "communes": "11"
+        },
+        "mai châu": {
+            "number_people": "55.640",
+            "area": "569,8",
+            "distribute": "98",
+            "communes": "16"
+        },
+        "tân lạc": {
+            "number_people": "86.889",
+            "area": "532,0",
+            "distribute": "163",
+            "communes": "16"
+        },
+        "yên thủy": {
+            "number_people": "60.143",
+            "area": "288,9",
+            "distribute": "208",
+            "communes": "11"
+        }
+    },
+    "hậu giang": {
+        "châu thành": {
+            "number_people": "88.079",
+            "area": "139,1",
+            "distribute": "633",
+            "communes": "8"
+        },
+        "châu thành a": {
+            "number_people": "97.606",
+            "area": "153,4",
+            "distribute": "636",
+            "communes": "10"
+        },
+        "long mỹ": {
+            "number_people": "77.346",
+            "area": "254,0",
+            "distribute": "305",
+            "communes": "8"
+        },
+        "ngã bảy": {
+            "number_people": "101.192",
+            "area": "78,1",
+            "distribute": "1.296",
+            "communes": "6"
+        },
+        "phụng hiệp": {
+            "number_people": "188.017",
+            "area": "483,7",
+            "distribute": "389",
+            "communes": "15"
+        },
+        "vị thanh": {
+            "number_people": "73.322",
+            "area": "119,1",
+            "distribute": "616",
+            "communes": "9"
+        },
+        "vị thủy": {
+            "number_people": "90.126",
+            "area": "230,2",
+            "distribute": "392",
+            "communes": "10"
+        }
+    },
+    "sóc trăng": {
+        "châu thành": {
+            "number_people": "95.188",
+            "area": "236,3",
+            "distribute": "403",
+            "communes": "8"
+        },
+        "cù lao dung": {
+            "number_people": "58.304",
+            "area": "264,8",
+            "distribute": "220",
+            "communes": "8"
+        },
+        "kế sách": {
+            "number_people": "149.156",
+            "area": "352,8",
+            "distribute": "423",
+            "communes": "13"
+        },
+        "long phú": {
+            "number_people": "94.255",
+            "area": "263,7",
+            "distribute": "357",
+            "communes": "11"
+        },
+        "mỹ tú": {
+            "number_people": "90.524",
+            "area": "368,2",
+            "distribute": "246",
+            "communes": "10"
+        },
+        "mỹ xuyên": {
+            "number_people": "150.067",
+            "area": "373,7",
+            "distribute": "402",
+            "communes": "11"
+        },
+        "ngã năm": {
+            "number_people": "74.115",
+            "area": "242,2",
+            "distribute": "306",
+            "communes": "8"
+        },
+        "sóc trăng": {
+            "number_people": "137.305",
+            "area": "76,0",
+            "distribute": "1.807",
+            "communes": "9"
+        },
+        "thạnh trị": {
+            "number_people": "73.596",
+            "area": "287,5",
+            "distribute": "256",
+            "communes": "10"
+        },
+        "trần đề": {
+            "number_people": "112.463",
+            "area": "378,0",
+            "distribute": "298",
+            "communes": "11"
+        },
+        "vĩnh châu": {
+            "number_people": "164.680",
+            "area": "468,7",
+            "distribute": "351",
+            "communes": "10"
+        }
+    },
+    "tuyên quang": {
+        "chiêm hóa": {
+            "number_people": "134.091",
+            "area": "1.146,2",
+            "distribute": "117",
+            "communes": "24"
+        },
+        "hàm yên": {
+            "number_people": "121.342",
+            "area": "900,6",
+            "distribute": "135",
+            "communes": "18"
+        },
+        "lâm bình": {
+            "number_people": "51.421",
+            "area": "917,6",
+            "distribute": "56",
+            "communes": "10"
+        },
+        "na hang": {
+            "number_people": "43.248",
+            "area": "863,5",
+            "distribute": "50",
+            "communes": "12"
+        },
+        "sơn dương": {
+            "number_people": "183.600",
+            "area": "787,8",
+            "distribute": "233",
+            "communes": "30"
+        },
+        "tuyên quang": {
+            "number_people": "191.118",
+            "area": "184,4",
+            "distribute": "1.036",
+            "communes": "15"
+        },
+        "yên sơn": {
+            "number_people": "145.390",
+            "area": "1.067,7",
+            "distribute": "136",
+            "communes": "28"
+        }
+    },
+    "đắk nông": {
+        "cư jút": {
+            "number_people": "92.464",
+            "area": "723,3",
+            "distribute": "128",
+            "communes": "8"
+        },
+        "đắk glong": {
+            "number_people": "67.782",
+            "area": "1.447,8",
+            "distribute": "47",
+            "communes": "7"
+        },
+        "đắk mil": {
+            "number_people": "100.702",
+            "area": "679,0",
+            "distribute": "148",
+            "communes": "10"
+        },
+        "đắk r'lấp": {
+            "number_people": "83.555",
+            "area": "635,7",
+            "distribute": "131",
+            "communes": "11"
+        },
+        "đắk song": {
+            "number_people": "80.514",
+            "area": "806,5",
+            "distribute": "100",
+            "communes": "9"
+        },
+        "gia nghĩa": {
+            "number_people": "85.082",
+            "area": "284,1",
+            "distribute": "299",
+            "communes": "8"
+        },
+        "krông nô": {
+            "number_people": "74.446",
+            "area": "813,7",
+            "distribute": "91",
+            "communes": "12"
+        },
+        "tuy đức": {
+            "number_people": "61.312",
+            "area": "1.119,3",
+            "distribute": "55",
+            "communes": "6"
+        }
+    },
+    "thái nguyên": {
+        "đại từ": {
+            "number_people": "171.703",
+            "area": "573,4",
+            "distribute": "299",
+            "communes": "27"
+        },
+        "định hóa": {
+            "number_people": "89.288",
+            "area": "513,5",
+            "distribute": "174",
+            "communes": "22"
+        },
+        "đồng hỷ": {
+            "number_people": "92.421",
+            "area": "427,7",
+            "distribute": "216",
+            "communes": "14"
+        },
+        "phổ yên": {
+            "number_people": "196.378",
+            "area": "258,9",
+            "distribute": "759",
+            "communes": "18"
+        },
+        "phú bình": {
+            "number_people": "156.804",
+            "area": "243,4",
+            "distribute": "644",
+            "communes": "20"
+        },
+        "phú lương": {
+            "number_people": "102.292",
+            "area": "350,7",
+            "distribute": "292",
+            "communes": "14"
+        },
+        "sông công": {
+            "number_people": "69.382",
+            "area": "96,7",
+            "distribute": "717",
+            "communes": "10"
+        },
+        "thái nguyên": {
+            "number_people": "340.403",
+            "area": "222,9",
+            "distribute": "1.527",
+            "communes": "32"
+        },
+        "võ nhai": {
+            "number_people": "68.080",
+            "area": "839,4",
+            "distribute": "81",
+            "communes": "15"
+        }
+    },
+    "kon tum": {
+        "đăk glei": {
+            "number_people": "48.761",
+            "area": "1.493,7",
+            "distribute": "33",
+            "communes": "12"
+        },
+        "đăk hà": {
+            "number_people": "74.805",
+            "area": "845,0",
+            "distribute": "89",
+            "communes": "11"
+        },
+        "đăk tô": {
+            "number_people": "47.544",
+            "area": "508,7",
+            "distribute": "93",
+            "communes": "9"
+        },
+        "ia h'drai": {
+            "number_people": "10.210",
+            "area": "980,2",
+            "distribute": "10",
+            "communes": "3"
+        },
+        "kon plông": {
+            "number_people": "26.025",
+            "area": "1.371,2",
+            "distribute": "19",
+            "communes": "9"
+        },
+        "kon rẫy": {
+            "number_people": "28.591",
+            "area": "913,9",
+            "distribute": "31",
+            "communes": "7"
+        },
+        "kon tum": {
+            "number_people": "168.264",
+            "area": "432,9",
+            "distribute": "389",
+            "communes": "21"
+        },
+        "ngọc hồi": {
+            "number_people": "58.913",
+            "area": "843,8",
+            "distribute": "70",
+            "communes": "8"
+        },
+        "sa thầy": {
+            "number_people": "49.914",
+            "area": "1.431,7",
+            "distribute": "35",
+            "communes": "11"
+        },
+        "tu mơ rông": {
+            "number_people": "27.411",
+            "area": "859,3",
+            "distribute": "32",
+            "communes": "11"
+        }
+    },
+    "điện biên": {
+        "điện biên": {
+            "number_people": "93.850",
+            "area": "1.396,0",
+            "distribute": "67",
+            "communes": "21"
+        },
+        "điện biên đông": {
+            "number_people": "67.080",
+            "area": "1.209,0",
+            "distribute": "55",
+            "communes": "14"
+        },
+        "điện biên phủ": {
+            "number_people": "80.366",
+            "area": "308,2",
+            "distribute": "261",
+            "communes": "12"
+        },
+        "mường ảng": {
+            "number_people": "48.416",
+            "area": "443,5",
+            "distribute": "109",
+            "communes": "10"
+        },
+        "mường chà": {
+            "number_people": "48.005",
+            "area": "1.199,4",
+            "distribute": "40",
+            "communes": "12"
+        },
+        "mường lay": {
+            "number_people": "11.162",
+            "area": "112,6",
+            "distribute": "99",
+            "communes": "3"
+        },
+        "mường nhé": {
+            "number_people": "45.727",
+            "area": "1.573,7",
+            "distribute": "29",
+            "communes": "11"
+        },
+        "nậm pồ": {
+            "number_people": "54.908",
+            "area": "1.498,1",
+            "distribute": "37",
+            "communes": "15"
+        },
+        "tủa chùa": {
+            "number_people": "57.460",
+            "area": "685,3",
+            "distribute": "84",
+            "communes": "12"
+        },
+        "tuần giáo": {
+            "number_people": "87.883",
+            "area": "1.137,8",
+            "distribute": "77",
+            "communes": "19"
+        }
+    },
+    "phú yên": {
+        "đông hòa": {
+            "number_people": "119.991",
+            "area": "265,6",
+            "distribute": "452",
+            "communes": "10"
+        },
+        "đồng xuân": {
+            "number_people": "55.030",
+            "area": "1.033,3",
+            "distribute": "53",
+            "communes": "11"
+        },
+        "phú hòa": {
+            "number_people": "102.074",
+            "area": "258,8",
+            "distribute": "394",
+            "communes": "9"
+        },
+        "sơn hòa": {
+            "number_people": "59.497",
+            "area": "937,8",
+            "distribute": "63",
+            "communes": "14"
+        },
+        "sông cầu": {
+            "number_people": "99.432",
+            "area": "492,8",
+            "distribute": "202",
+            "communes": "13"
+        },
+        "sông hinh": {
+            "number_people": "51.816",
+            "area": "893,2",
+            "distribute": "58",
+            "communes": "11"
+        },
+        "tây hòa": {
+            "number_people": "110.983",
+            "area": "623,7",
+            "distribute": "178",
+            "communes": "11"
+        },
+        "tuy an": {
+            "number_people": "123.167",
+            "area": "407,6",
+            "distribute": "302",
+            "communes": "15"
+        },
+        "tuy hòa": {
+            "number_people": "155.921",
+            "area": "110,6",
+            "distribute": "1.410",
+            "communes": "12"
+        }
+    },
+    "thái bình": {
+        "đông hưng": {
+            "number_people": "244.838",
+            "area": "199,3",
+            "distribute": "1.228",
+            "communes": "32"
+        },
+        "hưng hà": {
+            "number_people": "253.272",
+            "area": "210,3",
+            "distribute": "1.204",
+            "communes": "33"
+        },
+        "kiến xương": {
+            "number_people": "216.682",
+            "area": "202,0",
+            "distribute": "1.073",
+            "communes": "29"
+        },
+        "quỳnh phụ": {
+            "number_people": "240.940",
+            "area": "210,0",
+            "distribute": "1.147",
+            "communes": "35"
+        },
+        "thái bình": {
+            "number_people": "206.037",
+            "area": "68,1",
+            "distribute": "3.026",
+            "communes": "19"
+        },
+        "thái thụy": {
+            "number_people": "255.222",
+            "area": "268,4",
+            "distribute": "951",
+            "communes": "36"
+        },
+        "tiền hải": {
+            "number_people": "215.535",
+            "area": "231,3",
+            "distribute": "932",
+            "communes": "28"
+        },
+        "vũ thư": {
+            "number_people": "227.921",
+            "area": "196,9",
+            "distribute": "1.158",
+            "communes": "30"
+        }
+    },
+    "ninh bình": {
+        "gia viễn": {
+            "number_people": "120.992",
+            "area": "176,7",
+            "distribute": "685",
+            "communes": "21"
+        },
+        "hoa lư": {
+            "number_people": "225.831",
+            "area": "150,3",
+            "distribute": "3.984",
+            "communes": "20"
+        },
+        "kim sơn": {
+            "number_people": "182.942",
+            "area": "215,7",
+            "distribute": "848",
+            "communes": "26"
+        },
+        "nho quan": {
+            "number_people": "149.830",
+            "area": "450,6",
+            "distribute": "333",
+            "communes": "27"
+        },
+        "tam điệp": {
+            "number_people": "62.866",
+            "area": "104,9",
+            "distribute": "599",
+            "communes": "9"
+        },
+        "yên khánh": {
+            "number_people": "147.069",
+            "area": "142,6",
+            "distribute": "1.031",
+            "communes": "19"
+        },
+        "yên mô": {
+            "number_people": "118.469",
+            "area": "146,1",
+            "distribute": "811",
+            "communes": "17"
+        }
+    },
+    "nam định": {
+        "giao thủy": {
+            "number_people": "167.752",
+            "area": "237,8",
+            "distribute": "705",
+            "communes": "20"
+        },
+        "hải hậu": {
+            "number_people": "262.901",
+            "area": "228,1",
+            "distribute": "1.153",
+            "communes": "24"
+        },
+        "nam định": {
+            "number_people": "364.181",
+            "area": "120,9",
+            "distribute": "3.012",
+            "communes": "21"
+        },
+        "nam trực": {
+            "number_people": "183.241",
+            "area": "163,9",
+            "distribute": "1.118",
+            "communes": "18"
+        },
+        "nghĩa hưng": {
+            "number_people": "175.786",
+            "area": "258,9",
+            "distribute": "679",
+            "communes": "20"
+        },
+        "trực ninh": {
+            "number_people": "172.557",
+            "area": "144,0",
+            "distribute": "1.198",
+            "communes": "21"
+        },
+        "vụ bản": {
+            "number_people": "130.862",
+            "area": "152,8",
+            "distribute": "856",
+            "communes": "14"
+        },
+        "xuân trường": {
+            "number_people": "149.480",
+            "area": "116,1",
+            "distribute": "1.288",
+            "communes": "14"
+        },
+        "ý yên": {
+            "number_people": "229.006",
+            "area": "261,1",
+            "distribute": "877",
+            "communes": "23"
+        }
+    },
+    "lai châu": {
+        "lai châu": {
+            "number_people": "42.973",
+            "area": "92,4",
+            "distribute": "465",
+            "communes": "7"
+        },
+        "mường tè": {
+            "number_people": "46.143",
+            "area": "2.679,3",
+            "distribute": "17",
+            "communes": "14"
+        },
+        "nậm nhùn": {
+            "number_people": "27.261",
+            "area": "1.388,0",
+            "distribute": "20",
+            "communes": "11"
+        },
+        "phong thổ": {
+            "number_people": "79.645",
+            "area": "1.029,2",
+            "distribute": "77",
+            "communes": "17"
+        },
+        "sìn hồ": {
+            "number_people": "83.643",
+            "area": "1.527,0",
+            "distribute": "55",
+            "communes": "22"
+        },
+        "tam đường": {
+            "number_people": "52.470",
+            "area": "662,9",
+            "distribute": "79",
+            "communes": "13"
+        },
+        "tân uyên": {
+            "number_people": "58.104",
+            "area": "897,3",
+            "distribute": "65",
+            "communes": "10"
+        },
+        "than uyên": {
+            "number_people": "67.550",
+            "area": "792,5",
+            "distribute": "85",
+            "communes": "12"
+        }
+    },
+    "yên bái": {
+        "lục yên": {
+            "number_people": "108.817",
+            "area": "810,0",
+            "distribute": "134",
+            "communes": "24"
+        },
+        "mù cang chải": {
+            "number_people": "63.961",
+            "area": "1.197,9",
+            "distribute": "53",
+            "communes": "14"
+        },
+        "nghĩa lộ": {
+            "number_people": "68.206",
+            "area": "107,8",
+            "distribute": "633",
+            "communes": "14"
+        },
+        "trạm tấu": {
+            "number_people": "33.962",
+            "area": "743,4",
+            "distribute": "46",
+            "communes": "11"
+        },
+        "trấn yên": {
+            "number_people": "84.675",
+            "area": "629,1",
+            "distribute": "135",
+            "communes": "18"
+        },
+        "văn chấn": {
+            "number_people": "116.804",
+            "area": "1.129,9",
+            "distribute": "103",
+            "communes": "24"
+        },
+        "văn yên": {
+            "number_people": "129.679",
+            "area": "1.390,3",
+            "distribute": "93",
+            "communes": "25"
+        },
+        "yên bái": {
+            "number_people": "100.631",
+            "area": "106,8",
+            "distribute": "942",
+            "communes": "14"
+        },
+        "yên bình": {
+            "number_people": "112.046",
+            "area": "772,4",
+            "distribute": "145",
+            "communes": "23"
+        }
+    }
+}

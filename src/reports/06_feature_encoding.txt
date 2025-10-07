@@ -1,0 +1,52 @@
+BÁO CÁO XỬ LÝ ĐẶC TRƯNG
+========================
+
+Thời gian: 2025-05-20 20:44:19
+
+1. Cấu hình mã hóa biến phân loại:
+   - LegalStatus: one_hot
+   - Furnishing: one_hot
+
+2. Cấu hình chuẩn hóa biến số:
+   - Price: standard
+   - Area: standard
+   - Bedrooms: standard
+   - Bathrooms: standard
+   - Floors: standard
+   - AccessWidth: standard
+   - FacadeWidth: standard
+   - Distribute: standard
+   - GDP_USD: standard
+
+3. Thống kê:
+   - Số lượng biến ban đầu: 16
+   - Số lượng biến sau khi xử lý: 13
+   - Số lượng biến mới được tạo: -3
+
+4. Danh sách các biến mới:
+   - Furnishing_no
+   - Furnishing_yes
+   - LegalStatus_no
+   - LegalStatus_yes
+
+5. Thông tin về các biến phân loại:
+
+   LegalStatus:
+      - yes: 25602 bản ghi
+      - no: 1027 bản ghi
+
+   Furnishing:
+      - yes: 19241 bản ghi
+      - no: 7388 bản ghi
+
+6. Thông tin về chuẩn hóa biến số:
+   Các biến số đã được chuẩn hóa:
+   - Price: standard
+   - Area: standard
+   - Bedrooms: standard
+   - Bathrooms: standard
+   - Floors: standard
+   - AccessWidth: standard
+   - FacadeWidth: standard
+   - Distribute: standard
+   - GDP_USD: standard

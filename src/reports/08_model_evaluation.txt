@@ -1,0 +1,38 @@
+BÁO CÁO ĐÁNH GIÁ MÔ HÌNH
+=====================
+
+Thời gian: 2025-05-20 21:02:57
+
+Mô hình: LINEAR_REGRESSION
+-------------------
+RMSE (Train): 1 VND
+RMSE (Test): 1 VND
+R2 Score (Train): 0.523
+R2 Score (Test): 0.501
+MAE (Train): 1 VND
+MAE (Test): 1 VND
+MAPE (Test): 1240.62%
+
+Mô hình: KNN
+-------------------
+RMSE (Train): 0 VND
+RMSE (Test): 0 VND
+R2 Score (Train): 0.996
+R2 Score (Test): 0.614
+MAE (Train): 0 VND
+MAE (Test): 0 VND
+MAPE (Test): 146.83%
+
+Mô hình: XGBOOST
+-------------------
+RMSE (Train): 0 VND
+RMSE (Test): 0 VND
+R2 Score (Train): 0.847
+R2 Score (Test): 0.794
+MAE (Train): 0 VND
+MAE (Test): 0 VND
+MAPE (Test): 576.05%
+
+
+Mô hình tốt nhất: XGBOOST
+R2 Score: 0.794

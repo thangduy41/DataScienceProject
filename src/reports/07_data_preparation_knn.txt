@@ -1,0 +1,33 @@
+BÁO CÁO CHUẨN BỊ DỮ LIỆU CHO KNN
+========================================
+
+Thời gian: 2025-05-20 20:58:06
+
+1. Thống kê dữ liệu:
+   - Tổng số mẫu: 26629
+   - Số mẫu train: 21303
+   - Số mẫu test: 5326
+
+2. Thông tin về các biến:
+   - Số lượng features: 12
+   - Danh sách features:
+      - Area
+      - Bedrooms
+      - Bathrooms
+      - Floors
+      - AccessWidth
+      - FacadeWidth
+      - Distribute
+      - GDP_USD
+      - LegalStatus_no
+      - LegalStatus_yes
+      - Furnishing_no
+      - Furnishing_yes
+
+3. Thống kê giá nhà:
+   - Giá trung bình (train): 0 VND
+   - Giá thấp nhất (train): 0 VND
+   - Giá cao nhất (train): 1 VND
+   - Giá trung bình (test): 0 VND
+   - Giá thấp nhất (test): 0 VND
+   - Giá cao nhất (test): 1 VND

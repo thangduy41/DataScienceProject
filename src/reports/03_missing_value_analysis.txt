@@ -1,0 +1,36 @@
+BÁO CÁO XỬ LÝ GIÁ TRỊ THIẾU
+==========================
+
+Thời gian: 2025-05-19 08:58:14
+
+1. Cấu hình xử lý:
+   - Phương pháp cho cột số: mean
+   - Phương pháp cho cột phân loại: mode
+   - Phương pháp cho cột thời gian: ffill
+
+2. Thống kê giá trị thiếu:
+
+   Bedrooms:
+   - Số giá trị thiếu: 1828
+   - Phương pháp xử lý: mean
+   - Giá trị điền: 5.091368808182968
+
+   Bathrooms:
+   - Số giá trị thiếu: 3948
+   - Phương pháp xử lý: mean
+   - Giá trị điền: 4.9251009668339245
+
+   Floors:
+   - Số giá trị thiếu: 1984
+   - Phương pháp xử lý: mean
+   - Giá trị điền: 3.992611406141769
+
+   AccessWidth:
+   - Số giá trị thiếu: 11230
+   - Phương pháp xử lý: mean
+   - Giá trị điền: 6.24603889457523
+
+   FacadeWidth:
+   - Số giá trị thiếu: 9024
+   - Phương pháp xử lý: mean
+   - Giá trị điền: 5.637715155027529

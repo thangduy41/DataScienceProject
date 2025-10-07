@@ -1,0 +1,83 @@
+BÁO CÁO ĐÁNH GIÁ CHI TIẾT MÔ HÌNH
+==============================
+
+Thời gian: 2025-05-20 21:16:02
+
+Mô hình: LINEAR_REGRESSION
+-------------------
+1. Metrics:
+   - RMSE: 1 VND
+   - R2 Score: 0.501
+   - MAE: 1 VND
+   - MAPE: -25132.74%
+
+2. Thống kê Residual:
+   - Mean: 0 VND
+   - Std: 1 VND
+   - Min: -3 VND
+   - Max: 4 VND
+   - Skewness: 0.243
+   - Kurtosis: 1.307
+
+3. Phân vị Residual:
+   - 1%: -2 VND
+   - 5%: -1 VND
+   - 25%: -0 VND
+   - 50%: -0 VND
+   - 75%: 0 VND
+   - 95%: 1 VND
+   - 99%: 2 VND
+
+Mô hình: KNN
+-------------------
+1. Metrics:
+   - RMSE: 0 VND
+   - R2 Score: 0.614
+   - MAE: 0 VND
+   - MAPE: 13.70%
+
+2. Thống kê Residual:
+   - Mean: 0 VND
+   - Std: 0 VND
+   - Min: -0 VND
+   - Max: 0 VND
+   - Skewness: 0.197
+   - Kurtosis: 1.912
+
+3. Phân vị Residual:
+   - 1%: -0 VND
+   - 5%: -0 VND
+   - 25%: -0 VND
+   - 50%: 0 VND
+   - 75%: 0 VND
+   - 95%: 0 VND
+   - 99%: 0 VND
+
+Mô hình: XGBOOST
+-------------------
+1. Metrics:
+   - RMSE: 0 VND
+   - R2 Score: 0.794
+   - MAE: 0 VND
+   - MAPE: 576.05%
+
+2. Thống kê Residual:
+   - Mean: 0 VND
+   - Std: 0 VND
+   - Min: -2 VND
+   - Max: 3 VND
+   - Skewness: -0.209
+   - Kurtosis: 3.624
+
+3. Phân vị Residual:
+   - 1%: -1 VND
+   - 5%: -1 VND
+   - 25%: -0 VND
+   - 50%: 0 VND
+   - 75%: 0 VND
+   - 95%: 1 VND
+   - 99%: 1 VND
+
+
+Mô hình tốt nhất: XGBOOST
+R2 Score: 0.794

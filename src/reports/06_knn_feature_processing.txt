@@ -1,0 +1,23 @@
+BÁO CÁO XỬ LÝ ĐẶC TRƯNG CHO KNN
+========================================
+
+Thời gian: 2025-05-21 18:23:57
+
+1. Thống kê:
+   - Số lượng biến: 13
+   - Số lượng mẫu: 26629
+
+2. Danh sách các biến:
+   - Price
+   - Area
+   - Bedrooms
+   - Bathrooms
+   - Floors
+   - AccessWidth
+   - FacadeWidth
+   - Distribute
+   - GDP_USD
+   - LegalStatus_no
+   - LegalStatus_yes
+   - Furnishing_no
+   - Furnishing_yes

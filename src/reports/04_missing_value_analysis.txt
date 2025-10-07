@@ -1,0 +1,11 @@
+BÁO CÁO XỬ LÝ GIÁ TRỊ THIẾU
+==========================
+
+Thời gian: 2025-05-20 18:46:45
+
+1. Cấu hình xử lý:
+   - Phương pháp cho cột Bedrooms: mode
+   - Phương pháp cho cột Bathrooms: mode
+   - Phương pháp cho cột Floors: mode
+   - Phương pháp cho cột AccessWidth: median
+   - Phương pháp cho cột FacadeWidth: median

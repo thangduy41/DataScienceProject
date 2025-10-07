@@ -1,0 +1,25 @@
+BÁO CÁO XỬ LÝ NGOẠI LỆ
+========================
+
+Thời gian: 2025-05-20 19:37:37
+Số bản ghi ban đầu: 36632
+Số bản ghi sau xử lý: 26629
+Số bản ghi bị loại: 10003
+
+Phương pháp xử lý cho từng cột:
+Price: ZSCORE
+Area: ZSCORE
+Bedrooms: IQR
+Bathrooms: IQR
+Floors: ZSCORE
+AccessWidth: IQR
+FacadeWidth: IQR
+
+Các ngưỡng đã sử dụng:
+Price: 0.34 - 4.20
+Area: 2.54 - 5.71
+Bedrooms: 0.78 - 2.40
+Bathrooms: 0.78 - 2.40
+Floors: 0.56 - 2.53
+AccessWidth: 1.00 - 9.00
+FacadeWidth: 2.50 - 6.50
